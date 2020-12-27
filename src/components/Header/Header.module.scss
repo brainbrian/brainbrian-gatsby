@@ -1,12 +1,24 @@
 $height: 5rem;
+$height-border: 1rem;
 
 .Header {
+    align-items: center;
     background-color: var(--color-darker);
-    position: relative;
     display: flex;
     flex-direction: row;
-    align-items: center;
     height: $height;
+    padding-bottom: $height-border;
+    position: relative;
+}
+
+.HeaderContainer {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    height: $height;
+    margin: 0 auto;
+    max-width: var(--max-width);
+    width: 100%;
 }
 
 .Logo {
@@ -15,20 +27,38 @@ $height: 5rem;
     color: var(--color-light);
     display: flex;
     flex: 0 0 auto;
+    font-family: var(--font-headline);
     font-size: 2rem;
     font-weight: 700;
     height: $height;
-    width: 12rem;
     justify-content: center;
     margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 15rem;
+
+    &:hover,
+    &:focus {
+        background-color: var(--color-dark);
+        color: var(--color-main);
+    }
 }
 
 .Tagline {
     color: var(--color-main);
+    font-size: 0.5rem;
     font-style: italic;
-    margin: 0; // 0.75rem 0 0
+    margin: 0;
     padding: 0 2rem;
-    width: 38rem;
+    white-space: nowrap;
+
+    @media screen and (min-width: 68rem) {
+        font-size: 0.75rem;
+    }
+
+    @media screen and (min-width: 75rem) {
+        font-size: 1rem;
+    }
 }
 
 .Nav {
@@ -36,13 +66,13 @@ $height: 5rem;
 
     &::after {
         background-color: var(--color-main);
+        bottom: 0;
         content: '';
         display: block;
-        height: 1rem;
+        height: $height-border;
+        left: 0;
         position: absolute;
         width: 100%;
-        bottom: -1rem;
-        left: 0;
         z-index: 1;
     }
 }
@@ -50,11 +80,11 @@ $height: 5rem;
 .NavList {
     display: flex;
     flex: 1;
+    float: right;
     list-style: none;
+    margin-left: auto;
     margin: 0;
     padding: 0;
-    margin-left: auto;
-    float: right;
 }
 
 .NavListItem {
@@ -65,10 +95,12 @@ $height: 5rem;
         color: var(--color-light);
         display: flex;
         flex: 1;
-        font-weight: 700;
+        font-family: var(--font-headline);
+        font-size: 1.125rem;
+        font-weight: 500;
         height: $height;
         justify-content: center;
-        padding: 0 1rem;
+        padding: 0 $height-border;
         text-decoration: none;
         text-transform: uppercase;
 
@@ -83,13 +115,13 @@ $height: 5rem;
     background-color: var(--color-dark);
 
     &::after {
-        content: '';
-        height: 1rem;
         background-color: var(--color-dark);
+        bottom: -1rem;
+        content: '';
+        height: $height-border;
+        left: 0;
         position: absolute;
         width: 100%;
-        bottom: -1rem;
-        left: 0;
         z-index: 2;
     }
 }

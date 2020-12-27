@@ -8,7 +8,7 @@ const pageStyles = {
     fontFamily: '-apple-system, Roboto, sans-serif, serif',
 };
 
-const Projects = () => (
+const ProjectsPage = () => (
     <>
         <Head />
         <Header />
@@ -582,4 +582,4 @@ const Projects = () => (
     </>
 );
 
-export default Projects;
+export default ProjectsPage;

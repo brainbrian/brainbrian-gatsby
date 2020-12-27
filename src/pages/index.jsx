@@ -10,7 +10,7 @@ const pageStyles = {
     fontFamily: '-apple-system, Roboto, sans-serif, serif',
 };
 
-const Index = () => (
+const IndexPage = () => (
     <>
         <Head />
         <Header />
@@ -47,4 +47,4 @@ const Index = () => (
     </>
 );
 
-export default Index;
+export default IndexPage;

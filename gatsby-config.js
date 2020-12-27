@@ -17,6 +17,14 @@ module.exports = {
             __key: 'pages',
         },
         {
+            resolve: 'gatsby-source-filesystem',
+            options: {
+                name: 'markdown-pages',
+                path: `${__dirname}/src/markdown-pages`,
+            },
+            __key: 'markdown-pages',
+        },
+        {
             resolve: 'gatsby-plugin-prettier-eslint',
             options: {
                 prettier: {

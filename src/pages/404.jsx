@@ -4,7 +4,7 @@ import { Link } from 'gatsby';
 
 import { Footer, Head, Header } from '../components';
 
-const NotFound = () => (
+const NotFoundPage = () => (
     <>
         <Head title="Page Not Found | brainbrian.com" />
         <Header />
@@ -26,4 +26,4 @@ const NotFound = () => (
     </>
 );
 
-export default NotFound;
+export default NotFoundPage;

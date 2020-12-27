@@ -1,21 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+
 $color-main: #23a1ff;
 $color-light: #fff;
 $color-dark: #484848;
 $color-darker: #262626;
 
+$font-headline: 'Poppins', sans-serif;
+$font-body: 'Roboto', sans-serif;
+
 $radius: 1rem;
+$max-width: 90rem;
 
 :root {
     --color-main: #{$color-main};
     --color-light: #{$color-light};
     --color-dark: #{$color-dark};
     --color-darker: #{$color-darker};
+    --font-headline: #{$font-headline};
+    --font-body: #{$font-body};
+    --max-width: #{$max-width};
 }
 
 body {
     background-color: $color-dark;
+    font-family: var(--font-body);
     margin: 0;
     padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--font-headline);
 }
 
 h2 {

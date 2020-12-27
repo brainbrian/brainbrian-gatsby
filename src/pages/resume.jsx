@@ -8,7 +8,7 @@ const pageStyles = {
     fontFamily: '-apple-system, Roboto, sans-serif, serif',
 };
 
-const Resume = () => (
+const ResumePage = () => (
     <>
         <Head
             title="Brian Behrens | Resume | Los Angeles Software Engineer"
@@ -221,4 +221,4 @@ const Resume = () => (
     </>
 );
 
-export default Resume;
+export default ResumePage;
