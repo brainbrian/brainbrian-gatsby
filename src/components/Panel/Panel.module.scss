@@ -1,0 +1,55 @@
+.Panel {
+    color: var(--color-light);
+    overflow: hidden;
+    padding: 4rem;
+    position: relative;
+
+    h1 {
+        font-size: 4rem;
+        margin: 0;
+    }
+
+    h2 {
+        font-size: 3rem;
+        font-weight: 500;
+        margin: 0;
+    }
+
+    p {
+        font-size: 2rem;
+
+        a {
+            background-color: var(--color-main);
+            color: var(--color-light);
+            border-radius: 0.25rem;
+            padding: 0.25rem;
+            text-decoration: none;
+            line-height: 1.8;
+
+            &:hover,
+            &:focus {
+                background-color: var(--color-light);
+                color: var(--color-main);
+            }
+        }
+    }
+}
+
+.Video {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+
+    video {
+        display: block;
+        height: auto;
+        left: 0;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 100%;
+    }
+}

@@ -6,7 +6,7 @@ const VideosPage = () => (
     <>
         <Head />
         <Header />
-        <main>
+        <main className="content">
             <p>Videos will live here</p>
         </main>
         <Footer />

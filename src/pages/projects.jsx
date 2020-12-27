@@ -2,18 +2,12 @@ import * as React from 'react';
 
 import { Footer, Head, Header } from '../components';
 
-const pageStyles = {
-    color: '#232129',
-    padding: '96px',
-    fontFamily: '-apple-system, Roboto, sans-serif, serif',
-};
-
 const ProjectsPage = () => (
     <>
         <Head />
         <Header />
-        <main style={pageStyles}>
-            <ul>
+        <main className="content">
+            <ul style={{ listStyle: 'none', margin: 0, padding: 0 }}>
                 <li>
                     <a href="https://www.rei.com/events">
                         <img

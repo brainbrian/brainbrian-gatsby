@@ -22,7 +22,8 @@ $max-width: 90rem;
 }
 
 body {
-    background-color: $color-dark;
+    background-color: var(--color-dark);
+    color: var(--color-light);
     font-family: var(--font-body);
     margin: 0;
     padding: 0;
@@ -34,10 +35,33 @@ h3,
 h4,
 h5,
 h6 {
+    color: var(--color-main);
     font-family: var(--font-headline);
 }
 
-h2 {
+h1 {
+    font-weight: 700;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 500;
+}
+
+p {
+    color: var(--color-light);
+    line-height: 1.4;
+}
+
+.header-bar {
     background-color: $color-darker;
     border-radius: $radius;
+}
+
+.content {
+    margin: 0 auto;
+    max-width: var(--max-width);
 }

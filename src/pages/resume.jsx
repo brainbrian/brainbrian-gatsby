@@ -2,12 +2,6 @@ import * as React from 'react';
 
 import { Footer, Head, Header } from '../components';
 
-const pageStyles = {
-    color: '#232129',
-    padding: '96px',
-    fontFamily: '-apple-system, Roboto, sans-serif, serif',
-};
-
 const ResumePage = () => (
     <>
         <Head
@@ -15,7 +9,7 @@ const ResumePage = () => (
             description="This is the personal resume of Brian Behrens."
         />
         <Header />
-        <main style={pageStyles}>
+        <main className="content">
             <p>
                 I’m Brian Behrens, a developer living in Venice, CA. I have been
                 building interactive projects professionally since 2003. The
