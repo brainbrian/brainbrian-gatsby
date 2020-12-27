@@ -1,0 +1,95 @@
+$height: 5rem;
+
+.Header {
+    background-color: var(--color-darker);
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: $height;
+}
+
+.Logo {
+    align-items: center;
+    background-color: var(--color-main);
+    color: var(--color-light);
+    display: flex;
+    flex: 0 0 auto;
+    font-size: 2rem;
+    font-weight: 700;
+    height: $height;
+    width: 12rem;
+    justify-content: center;
+    margin: 0;
+}
+
+.Tagline {
+    color: var(--color-main);
+    font-style: italic;
+    margin: 0; // 0.75rem 0 0
+    padding: 0 2rem;
+    width: 38rem;
+}
+
+.Nav {
+    width: 100%;
+
+    &::after {
+        background-color: var(--color-main);
+        content: '';
+        display: block;
+        height: 1rem;
+        position: absolute;
+        width: 100%;
+        bottom: -1rem;
+        left: 0;
+        z-index: 1;
+    }
+}
+
+.NavList {
+    display: flex;
+    flex: 1;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    float: right;
+}
+
+.NavListItem {
+    position: relative;
+
+    a {
+        align-items: center;
+        color: var(--color-light);
+        display: flex;
+        flex: 1;
+        font-weight: 700;
+        height: $height;
+        justify-content: center;
+        padding: 0 1rem;
+        text-decoration: none;
+        text-transform: uppercase;
+
+        &:hover,
+        &:focus {
+            background-color: var(--color-dark);
+        }
+    }
+}
+
+.NavLinkActive {
+    background-color: var(--color-dark);
+
+    &::after {
+        content: '';
+        height: 1rem;
+        background-color: var(--color-dark);
+        position: absolute;
+        width: 100%;
+        bottom: -1rem;
+        left: 0;
+        z-index: 2;
+    }
+}

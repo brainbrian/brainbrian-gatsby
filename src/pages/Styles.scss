@@ -1,0 +1,24 @@
+$color-main: #23a1ff;
+$color-light: #fff;
+$color-dark: #484848;
+$color-darker: #262626;
+
+$radius: 1rem;
+
+:root {
+    --color-main: #{$color-main};
+    --color-light: #{$color-light};
+    --color-dark: #{$color-dark};
+    --color-darker: #{$color-darker};
+}
+
+body {
+    background-color: $color-dark;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    background-color: $color-darker;
+    border-radius: $radius;
+}
