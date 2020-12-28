@@ -14,15 +14,20 @@ module.exports = {
                 name: 'pages',
                 path: './src/pages/',
             },
-            __key: 'pages',
         },
         {
             resolve: 'gatsby-source-filesystem',
             options: {
-                name: 'markdown-pages',
-                path: `${__dirname}/src/markdown-pages`,
+                name: 'posts',
+                path: `${__dirname}/content/posts`,
             },
-            __key: 'markdown-pages',
+        },
+        {
+            resolve: 'gatsby-source-filesystem',
+            options: {
+                name: 'projects',
+                path: `${__dirname}/content/projects`,
+            },
         },
         {
             resolve: 'gatsby-plugin-prettier-eslint',

@@ -5,11 +5,13 @@
     position: relative;
 
     h1 {
+        color: var(--color-light);
         font-size: 4rem;
         margin: 0;
     }
 
     h2 {
+        color: var(--color-light);
         font-size: 3rem;
         font-weight: 500;
         margin: 0;
@@ -21,8 +23,7 @@
         a {
             background-color: var(--color-main);
             color: var(--color-light);
-            border-radius: 0.25rem;
-            padding: 0.25rem;
+            padding: 0.25rem 0.4rem;
             text-decoration: none;
             line-height: 1.8;
 

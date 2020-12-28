@@ -32,8 +32,11 @@ export const Header = () => (
                         </Link>
                     </li>
                     <li className={Styles.NavListItem}>
-                        <Link to="/blog" activeClassName={Styles.NavLinkActive}>
-                            Blog
+                        <Link
+                            to="/posts"
+                            activeClassName={Styles.NavLinkActive}
+                        >
+                            Posts
                         </Link>
                     </li>
                     <li className={Styles.NavListItem}>

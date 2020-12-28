@@ -17,7 +17,7 @@ const BlogPage = ({
         <>
             <Head />
             <Header />
-            <main>{posts}</main>
+            <main className="content">{posts}</main>
             <Footer />
         </>
     );
@@ -27,14 +27,19 @@ export default BlogPage;
 
 export const pageQuery = graphql`
     query {
-        allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+        allMarkdownRemark(
+            sort: { order: DESC, fields: [frontmatter___date] }
+            filter: { fields: { collection: { eq: "posts" } } }
+        ) {
             edges {
                 node {
                     id
                     excerpt(pruneLength: 250)
+                    fields {
+                        slug
+                    }
                     frontmatter {
                         date(formatString: "MMMM DD, YYYY")
-                        slug
                         title
                     }
                 }

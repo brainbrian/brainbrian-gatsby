@@ -1,0 +1,13 @@
+.PostLink {
+    color: var(--color-main);
+    font-size: 2rem;
+    text-decoration: none;
+    padding: 0.5rem;
+    margin: -0.5rem;
+
+    &:hover,
+    &:focus {
+        background-color: var(--color-main);
+        color: var(--color-light);
+    }
+}
