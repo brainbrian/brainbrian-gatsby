@@ -1,0 +1,44 @@
+.Project {
+    margin-bottom: 2rem;
+}
+
+.Link {
+    text-decoration: none;
+
+    h2 {
+        background-color: var(--color-darker);
+        margin: 0;
+        padding: 1rem;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    &:hover,
+    &:focus {
+        h2 {
+            background-color: var(--color-main);
+            color: var(--color-light);
+        }
+    }
+}
+
+.Content {
+    padding: 1rem;
+    font-size: 1.25rem;
+
+    a {
+        background-color: var(--color-main);
+        color: var(--color-light);
+        padding: 0.25rem 0.4rem;
+        text-decoration: none;
+        line-height: 1.8;
+
+        &:hover,
+        &:focus {
+            background-color: var(--color-light);
+            color: var(--color-main);
+        }
+    }
+}

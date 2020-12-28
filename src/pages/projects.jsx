@@ -2,7 +2,7 @@ import React from 'react';
 
 import { graphql } from 'gatsby';
 
-import { Footer, Head, Header } from '../components';
+import { Footer, Head, Header, Project } from '../components';
 
 const ProjectPage = ({
     data: {
@@ -11,23 +11,7 @@ const ProjectPage = ({
 }) => {
     const projects = edges
         .filter((edge) => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
-        .map((edge) => (
-            <div key={edge.node.id}>
-                <a href={edge.node.frontmatter.url}>
-                    <h2>{edge.node.frontmatter.title}</h2>
-                    {edge.node.frontmatter.image && (
-                        <img
-                            src={edge.node.frontmatter.image.publicURL}
-                            alt={`${edge.node.frontmatter.title} Sample`}
-                        />
-                    )}
-                </a>
-                <div
-                    className="project-content"
-                    dangerouslySetInnerHTML={{ __html: edge.node.html }}
-                />
-            </div>
-        ));
+        .map((edge) => <Project key={edge.node.id} node={edge.node} />);
 
     return (
         <>

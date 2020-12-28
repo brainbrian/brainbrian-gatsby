@@ -1,11 +1,5 @@
 import * as React from 'react';
 
-const footerStyles = {
-    color: '#232129',
-    padding: '96px',
-    fontFamily: '-apple-system, Roboto, sans-serif, serif',
-};
-
 export const Footer = () => (
     <>
         <h3>From The Brain</h3>
@@ -22,8 +16,6 @@ export const Footer = () => (
             <li>Tweet 1 text shows up here</li>
             <li>Tweet 1 text shows up here</li>
         </ul>
-        <footer styles={footerStyles}>
-            © 2020 Brain Brian (Brian Behrens)
-        </footer>
+        <footer>© 2020 Brain Brian (Brian Behrens)</footer>
     </>
 );

@@ -18,4 +18,4 @@ tags:
     ]
 ---
 
-While at [Mervin Mfg.](http://www.mervinmfg.com) we were tasked with building a web application that would take in user data and suggest snowboards based on their body types and skill. Custom fields were added to track specific board ratings based on terrain and skill level. I built this application with AngularJS and custom JSON output through WordPress page templates.
+While at [Mervin Mfg.](http://www.mervin.com) we were tasked with building a web application that would take in user data and suggest snowboards based on their body types and skill. Custom fields were added to track specific board ratings based on terrain and skill level. I built this application with AngularJS and custom JSON output through WordPress page templates.
