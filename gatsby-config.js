@@ -20,6 +20,7 @@ module.exports = {
             options: {
                 name: 'posts',
                 path: `${__dirname}/content/posts`,
+                __key: 'posts',
             },
         },
         {
@@ -27,6 +28,7 @@ module.exports = {
             options: {
                 name: 'projects',
                 path: `${__dirname}/content/projects`,
+                __key: 'projects',
             },
         },
         {

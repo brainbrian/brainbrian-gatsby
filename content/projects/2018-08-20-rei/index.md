@@ -1,8 +1,8 @@
 ---
+title: 'REI Classes/Events and Adventures Team!'
 date: '2018-08-20'
-title: 'REI Classes/Events and Adventures Team'
+image: './image.jpg'
 url: 'https://www.rei.com/events'
-image: './2018-08-20-rei.jpg'
 tags:
     [
         'css',
