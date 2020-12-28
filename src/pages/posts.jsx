@@ -25,6 +25,7 @@ const BlogPage = ({
 
 export default BlogPage;
 
+// TODO: Add pagination - https://www.gatsbyjs.com/docs/adding-pagination/
 export const pageQuery = graphql`
     query {
         allMarkdownRemark(
