@@ -56,9 +56,41 @@ p {
     line-height: 1.4;
 }
 
+a {
+    color: var(--color-main);
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+        text-decoration: underline;
+    }
+}
+
 .header-bar {
-    background-color: $color-darker;
-    border-radius: $radius;
+    background-color: var(--color-darker);
+    color: var(--color-light);
+    display: block;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    text-transform: uppercase;
+
+    $parent: &;
+
+    &__text {
+        color: var(--color-light);
+        font-size: 1.25rem;
+        margin: 0;
+    }
+
+    &:hover,
+    &:focus {
+        text-decoration: none;
+
+        #{$parent}__text {
+            color: var(--color-main);
+        }
+    }
 }
 
 .content {

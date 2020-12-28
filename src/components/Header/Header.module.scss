@@ -33,7 +33,6 @@ $height-border: 1rem;
     height: $height;
     justify-content: center;
     margin: 0;
-    text-decoration: none;
     text-transform: uppercase;
     width: 15rem;
 
@@ -41,6 +40,7 @@ $height-border: 1rem;
     &:focus {
         background-color: var(--color-dark);
         color: var(--color-main);
+        text-decoration: none;
     }
 }
 
@@ -107,6 +107,7 @@ $height-border: 1rem;
         &:hover,
         &:focus {
             background-color: var(--color-dark);
+            text-decoration: none;
         }
     }
 }

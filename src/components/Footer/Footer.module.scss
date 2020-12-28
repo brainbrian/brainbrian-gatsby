@@ -1,3 +1,19 @@
+.Aside {
+    display: flex;
+
+    section {
+        width: 50%;
+
+        &:nth-child(odd) {
+            padding-right: 1rem;
+        }
+
+        &:nth-child(even) {
+            padding-left: 1rem;
+        }
+    }
+}
+
 .Footer {
     border: 0 var(--color-main) solid;
     border-top-width: 0.125rem;
@@ -5,4 +21,36 @@
     margin: 2rem auto 0;
     max-width: var(--max-width);
     padding: 1rem;
+}
+
+.List {
+    list-style: none;
+    padding: 0 1rem;
+    margin: 1rem 0;
+}
+
+.ListItemBrain {
+    background-image: url('/images/brain.svg');
+    background-repeat: no-repeat;
+    background-size: 2rem 2rem;
+    margin-bottom: 1rem;
+    min-height: 2rem;
+    padding: 0.4rem 0 0 3rem;
+}
+
+.ListItemTweet {
+    background-image: url('/images/twitter.svg');
+    background-repeat: no-repeat;
+    background-size: 2rem 2rem;
+    margin-bottom: 1rem;
+    min-height: 2rem;
+    padding: 0.4rem 0 0 3rem;
+
+    p {
+        margin: 0;
+    }
+
+    a {
+        font-size: 0.75rem;
+    }
 }

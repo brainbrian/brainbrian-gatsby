@@ -10,26 +10,29 @@ export const Footer = () => {
 
     return (
         <>
-            <aside className="content">
+            <aside className={`content ${Styles.Aside}`}>
                 <section>
-                    <a href="/posts">
-                        <h3>From The Brain</h3>
+                    <a href="/posts" className="header-bar">
+                        <h3 className="header-bar__text">From The Brain</h3>
                     </a>
-                    <ul>
+                    <ul className={Styles.List}>
                         {posts.map(({ id, slug, title }) => (
-                            <li key={id}>
+                            <li key={id} className={Styles.ListItemBrain}>
                                 <a href={slug}>{title}</a>
                             </li>
                         ))}
                     </ul>
                 </section>
                 <section>
-                    <a href="https://twitter.com/brianbehrens">
-                        <h3>Tweets</h3>
+                    <a
+                        href="https://twitter.com/brianbehrens"
+                        className="header-bar"
+                    >
+                        <h3 className="header-bar__text">Tweets</h3>
                     </a>
-                    <ul>
+                    <ul className={Styles.List}>
                         {tweets.map(({ date, text, url }, index) => (
-                            <li key={index}>
+                            <li key={index} className={Styles.ListItemTweet}>
                                 <p>{text}</p>
                                 <a href={url}>{date}</a>
                             </li>
