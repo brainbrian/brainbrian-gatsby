@@ -52,5 +52,29 @@ module.exports = {
                 },
             },
         },
+        {
+            resolve: `gatsby-source-twitter`,
+            options: {
+                credentials: {
+                    // TODO: Move to env vars https://www.gatsbyjs.com/docs/how-to/local-development/environment-variables/
+                    consumer_key: 'WhCNPFzoeR28ESB4mG5aQ',
+                    consumer_secret:
+                        'EZmbAkf0MNuLw0lEfAtI6HaLQHbrB98veoHYLzEa3ok',
+                    bearer_token:
+                        'AAAAAAAAAAAAAAAAAAAAAES4SgAAAAAAbLyt3sx9TN9nG5MDO2NdaOBp90Y%3DBNC5qIdISBmT194YH6bISkiEbVQjJ3No3Cvo33DwfEwUyZ7UF5',
+                },
+                queries: {
+                    brian: {
+                        endpoint: 'statuses/user_timeline',
+                        params: {
+                            screen_name: 'brianbehrens',
+                            include_rts: false,
+                            exclude_replies: true,
+                            tweet_mode: 'extended',
+                        },
+                    },
+                },
+            },
+        },
     ],
 };

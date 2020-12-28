@@ -1,15 +1,16 @@
 import * as React from 'react';
 
-import { usePosts } from './hooks/usePosts';
+import { usePosts, useTweets } from './hooks';
 
 import Styles from './Footer.module.scss';
 
 export const Footer = () => {
     const posts = usePosts();
+    const tweets = useTweets();
 
     return (
         <>
-            <div className="content">
+            <aside className="content">
                 <section>
                     <a href="/posts">
                         <h3>From The Brain</h3>
@@ -27,13 +28,15 @@ export const Footer = () => {
                         <h3>Tweets</h3>
                     </a>
                     <ul>
-                        <li>Tweet 1 text shows up here</li>
-                        <li>Tweet 1 text shows up here</li>
-                        <li>Tweet 1 text shows up here</li>
-                        <li>Tweet 1 text shows up here</li>
+                        {tweets.map(({ date, text, url }, index) => (
+                            <li key={index}>
+                                <p>{text}</p>
+                                <a href={url}>{date}</a>
+                            </li>
+                        ))}
                     </ul>
                 </section>
-            </div>
+            </aside>
             <footer className={Styles.Footer}>
                 © 2020 Brain Brian (Brian Behrens)
             </footer>
