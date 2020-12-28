@@ -7,7 +7,13 @@ const ResumePage = () => (
         <Head
             title="Brian Behrens | Resume | Los Angeles Software Engineer"
             description="This is the personal resume of Brian Behrens."
-        />
+        >
+            <script
+                async
+                defer
+                src="https://buttons.github.io/buttons.js"
+            ></script>
+        </Head>
         <Header />
         <main className="content">
             <p>
@@ -26,7 +32,7 @@ const ResumePage = () => (
                 <a
                     className="github-button"
                     href="https://github.com/brainbrian"
-                    data-color-scheme="no-preference: dark; light: dark; dark: dark;"
+                    data-color-scheme="no-preference: light; light: light; dark: light;"
                     data-size="large"
                     aria-label="Follow @brainbrian on GitHub"
                 >
@@ -45,8 +51,8 @@ const ResumePage = () => (
                     />
                 </a>
             </p>
-            <h3>Experience</h3>
-            <h4>Principal Engineer (IV), VideoAmp</h4>
+            <h2 className="header-bar">Experience</h2>
+            <h3>Principal Engineer (IV), VideoAmp</h3>
             <p>
                 Santa Monica, CA | 2018 – Present
                 <br />I work on the DesignOps team. We focus on developing and
@@ -54,7 +60,7 @@ const ResumePage = () => (
                 in the process of open-sourcing our design system. We work with
                 TypeScript, React and Node on all of our projects.
             </p>
-            <h4>Software Engineer – Front End, REI</h4>
+            <h3>Software Engineer – Front End, REI</h3>
             <p>
                 Kent, WA | 2017 – 2018
                 <br />
@@ -67,7 +73,7 @@ const ResumePage = () => (
                 private NPM repository. Unit test our shared modules with Mocha
                 and Chai.
             </p>
-            <h4>Senior Interactive Developer, POP</h4>
+            <h3>Senior Interactive Developer, POP</h3>
             <p>
                 Seattle, WA | 2015&nbsp;– 2017
                 <br />
@@ -82,7 +88,7 @@ const ResumePage = () => (
                 and other backend duties. Developed within Node.js, Apache, .NET
                 and AWS environments.
             </p>
-            <h4>Senior Web Developer, Mervin Manufacturing</h4>
+            <h3>Senior Web Developer, Mervin Manufacturing</h3>
             <p>
                 Seattle, WA | 2012 –&nbsp;2015
                 <br />
@@ -97,7 +103,7 @@ const ResumePage = () => (
                 infrastructure. Evaluated analytics and made informed
                 online-business decisions.
             </p>
-            <h4>Senior Interface Developer, Blast Radius</h4>
+            <h3>Senior Interface Developer, Blast Radius</h3>
             <p>
                 Seattle, WA | 2011 – 2012
                 <br />
@@ -109,7 +115,7 @@ const ResumePage = () => (
                 experiences for Starbucks Holiday and Frappuccino using
                 ActionScript 3 and PureMVC.
             </p>
-            <h4>Senior Interactive Developer, POP</h4>
+            <h3>Senior Interactive Developer, POP</h3>
             <p>
                 Seattle, WA | 2008 – 2011
                 <br />
@@ -117,21 +123,21 @@ const ResumePage = () => (
                 Target, Nintendo, Amazon, Xbox and more. Led development
                 planning efforts and execution.
             </p>
-            <h4>Multimedia Developer, Marx Creative</h4>
+            <h3>Multimedia Developer, Marx Creative</h3>
             <p>
                 Milwaukee, WI | 2006 – 2008
                 <br />
                 Web development (HTML, CSS, Javascript, Ajax, Flash, XML, PHP
                 and MySQL), DVD production, In-store Media Creation
             </p>
-            <h4>Freelance Web Development</h4>
+            <h3>Freelance Web Development</h3>
             <p>
                 2006 – Present
                 <br />
                 Web-design and Programming (HTML, CSS, Javascript, Flash, XML,
                 PHP and MySQL), Custom CMS Application Development
             </p>
-            <h4>Multimedia Developer, WIN Media Inc.</h4>
+            <h3>Multimedia Developer, WIN Media Inc.</h3>
             <p>
                 Burlington, WI | 2003 – 2006
                 <br />
@@ -139,38 +145,38 @@ const ResumePage = () => (
                 CSS, Javascript, Flash, PHP and MySQL), DVD Production, Live
                 Event Video Production, Commercial Productions
             </p>
-            <h4>Production Assistant, Milwaukee Public Television</h4>
+            <h3>Production Assistant, Milwaukee Public Television</h3>
             <p>
                 Milwaukee, WI | 2002 – 2003
                 <br />
                 Floor Director, Camera, Make-up, TelePrompTer, Switcher,
                 Lighting, Audio
             </p>
-            <h4>
+            <h3>
                 Co-Producer, Milwaukee Bucks “Bucks Buddy” Half-time Segment
-            </h4>
+            </h3>
             <p>
                 Milwaukee, WI | 2003
                 <br />I Produced, Shot, and Edited a 30 second half-time segment
                 for the “Bucks Buddy” program with partner, Brad Manderscheid.
                 The segment aired on the WB during a Bucks half-time show.
             </p>
-            <h4>Executive Producer, MPTV’s “Letters to Santa”</h4>
+            <h3>Executive Producer, MPTV’s “Letters to Santa”</h3>
             <p>
                 Milwaukee, WI | 2002
                 <br />I oversaw all aspects of production in the 7 Part
                 Children’s Series aired on Milwaukee Public Television.
             </p>
 
-            <h3>Awards</h3>
-            <h4>Target – Best of the Bullseye: Collaboration</h4>
+            <h2 className="header-bar">Awards</h2>
+            <h3>Target – Best of the Bullseye: Collaboration</h3>
             <p>
                 Seattle, WA | 2008
                 <br />
                 The team at POP on the Target account was awarded a Best of the
                 Bullseye award by Target Corporate for collaboration.
             </p>
-            <h4>Freddie Award</h4>
+            <h3>Freddie Award</h3>
             <p>
                 Milwaukee, WI | 2007
                 <br />
@@ -181,7 +187,7 @@ const ResumePage = () => (
                 and maintained the site since I started at Marx Creative in
                 2006.
             </p>
-            <h4>Best Director Award</h4>
+            <h3>Best Director Award</h3>
             <p>
                 Milwaukee, WI | 2003
                 <br />
@@ -191,8 +197,8 @@ const ResumePage = () => (
                 cinematographer, and editor for this feature.
             </p>
 
-            <h3>Education</h3>
-            <h4>Milwaukee Area Technical College</h4>
+            <h2 className="header-bar">Education</h2>
+            <h3>Milwaukee Area Technical College</h3>
             <p>
                 Milwaukee, WI | 2001 – 2005
                 <br />
@@ -201,7 +207,7 @@ const ResumePage = () => (
                 Associates Degree in Visual Communications
             </p>
 
-            <h3>Skills</h3>
+            <h2 className="header-bar">Skills</h2>
             <p>
                 HTML, CSS, JavaScript, Node.js, React, Vue.js, Angular, webpack,
                 Gulp, Grunt, Preprocessors, Babel, PHP, MySQL, NoSQL, Source

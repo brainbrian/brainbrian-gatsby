@@ -48,7 +48,7 @@ export const Header = () => (
                         </Link>
                     </li>
                     <li className={Styles.NavListItem}>
-                        <Link to="https://gallery.brainbrian.com">Gallery</Link>
+                        <a href="https://gallery.brainbrian.com">Gallery</a>
                     </li>
                 </ul>
             </nav>

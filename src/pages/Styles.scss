@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
 
 $color-main: #23a1ff;
 $color-light: #fff;
@@ -6,7 +6,7 @@ $color-dark: #484848;
 $color-darker: #262626;
 
 $font-headline: 'Poppins', sans-serif;
-$font-body: 'Roboto', sans-serif;
+$font-body: 'Open Sans', sans-serif;
 
 $radius: 1rem;
 $max-width: 90rem;
@@ -95,5 +95,6 @@ a {
 
 .content {
     margin: 2rem auto;
+    padding: 0 2rem;
     max-width: var(--max-width);
 }

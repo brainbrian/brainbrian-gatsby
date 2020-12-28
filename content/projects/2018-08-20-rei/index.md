@@ -1,5 +1,5 @@
 ---
-title: 'REI Classes/Events and Adventures Team!'
+title: 'REI Classes/Events and Adventures Team'
 date: '2018-08-20'
 image: './image.jpg'
 url: 'https://www.rei.com/events'
