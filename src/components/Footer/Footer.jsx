@@ -9,7 +9,7 @@ export const Footer = () => {
     const tweets = useTweets();
 
     return (
-        <>
+        <div className="bg-page">
             <aside className={`content ${Styles.Aside}`}>
                 <section>
                     <a href="/posts" className="header-bar">
@@ -43,6 +43,6 @@ export const Footer = () => {
             <footer className={Styles.Footer}>
                 © 2020 Brain Brian (Brian Behrens)
             </footer>
-        </>
+        </div>
     );
 };

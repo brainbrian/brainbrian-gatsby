@@ -3,7 +3,7 @@ import * as React from 'react';
 import { Project } from '../';
 import { useProjects } from '../../hooks';
 
-import Styles from './ProjectsRecent.scss';
+import Styles from './ProjectsRecent.module.scss';
 
 export const ProjectsRecent = () => {
     const projects = useProjects();
@@ -12,11 +12,13 @@ export const ProjectsRecent = () => {
     ));
 
     return (
-        <section className={Styles.ProjectsRecent}>
-            <a className="header-bar" href="./projects">
-                <h2 className="header-bar__text">Recent Projects</h2>
-            </a>
-            {projectNodes}
-        </section>
+        <div className="bg-page">
+            <section className={Styles.ProjectsRecent}>
+                <a className="header-bar" href="./projects">
+                    <h2 className="header-bar__text">Recent Projects</h2>
+                </a>
+                {projectNodes}
+            </section>
+        </div>
     );
 };

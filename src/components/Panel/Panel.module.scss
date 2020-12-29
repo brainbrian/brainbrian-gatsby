@@ -1,9 +1,13 @@
 .Panel {
     color: var(--color-light);
-    margin-bottom: 2rem;
+    margin: 0;
     overflow: hidden;
-    padding: 4rem;
     position: relative;
+    min-height: calc(100vh - 14rem);
+
+    @media screen and (min-width: 68rem) {
+        padding: 4rem;
+    }
 
     h1 {
         color: var(--color-light);
@@ -38,20 +42,10 @@
 }
 
 .Video {
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
     z-index: -1;
-
-    video {
-        display: block;
-        height: auto;
-        left: 0;
-        position: absolute;
-        top: 50%;
-        transform: translateY(-50%);
-        width: 100%;
-    }
 }

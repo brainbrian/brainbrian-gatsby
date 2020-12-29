@@ -18,10 +18,10 @@ const ResumePage = () => (
         <main className="content">
             <ProfileHeader>
                 <p>
-                    I’m Brian Behrens, a developer living in Venice, CA. I have
-                    been building interactive projects professionally since
+                    I’m Brian Behrens, a developer living in Los Angeles, CA. I
+                    have been building interactive projects professionally since
                     2003. The bulk of my career has been centered around
-                    websites, social campaigns and web– based applications. I
+                    websites, social campaigns and web–based applications. I
                     have focused heavily on interaction design, web standards,
                     usability, animation, video, e-commerce and application
                     architecture. My passion for technology is ever-evolving and

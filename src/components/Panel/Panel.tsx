@@ -6,11 +6,9 @@ export const Panel = ({ children, videoUrl }) => (
     <section className={Styles.Panel}>
         {children}
         {videoUrl && (
-            <div className={Styles.Video}>
-                <video loop playsInline autoPlay>
-                    <source src={videoUrl} type="video/mp4" />
-                </video>
-            </div>
+            <video loop playsInline autoPlay className={Styles.Video}>
+                <source src={videoUrl} type="video/mp4" />
+            </video>
         )}
     </section>
 );
