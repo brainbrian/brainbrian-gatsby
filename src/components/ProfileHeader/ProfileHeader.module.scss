@@ -1,0 +1,32 @@
+.ProfileHeader {
+    display: flex;
+}
+
+.ProfileImage {
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+.Aside {
+    max-width: 14rem;
+    width: 30%;
+}
+
+.Biography {
+    margin-right: 2rem;
+    width: 100%;
+
+    p {
+        font-size: 1.125rem;
+        line-height: 1.5;
+        margin: 0;
+
+        @media screen and (min-width: 68rem) {
+            font-size: 1.25rem;
+        }
+
+        @media screen and (min-width: 75rem) {
+            font-size: 1.5rem;
+        }
+    }
+}

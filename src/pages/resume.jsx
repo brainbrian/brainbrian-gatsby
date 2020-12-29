@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-import { Footer, Head, Header } from '../components';
+import { Footer, Head, Header, ProfileHeader } from '../components';
 
 const ResumePage = () => (
     <>
@@ -16,41 +16,21 @@ const ResumePage = () => (
         </Head>
         <Header />
         <main className="content">
-            <p>
-                I’m Brian Behrens, a developer living in Venice, CA. I have been
-                building interactive projects professionally since 2003. The
-                bulk of my career has been centered around websites, social
-                campaigns and web– based applications. I have focused heavily on
-                interaction design, web standards, usability, animation, video,
-                e-commerce and application architecture. My passion for
-                technology is ever-evolving and I enjoy new challenges. Behind
-                it all, I’m a problem solver who likes telling stories. In my
-                free time you’ll find me surfing, snowboarding, skateboarding,
-                taking photos or appreciating live music.
-            </p>
-            <p>
-                <a
-                    className="github-button"
-                    href="https://github.com/brainbrian"
-                    data-color-scheme="no-preference: light; light: light; dark: light;"
-                    data-size="large"
-                    aria-label="Follow @brainbrian on GitHub"
-                >
-                    Follow @brainbrian
-                </a>
-            </p>
-            <p>
-                <a href="https://www.linkedin.com/in/brianbehrens">
-                    <img
-                        loading="lazy"
-                        src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png"
-                        alt="View Brian Behrens's profile on LinkedIn"
-                        width="160"
-                        height="25"
-                        border="0"
-                    />
-                </a>
-            </p>
+            <ProfileHeader>
+                <p>
+                    I’m Brian Behrens, a developer living in Venice, CA. I have
+                    been building interactive projects professionally since
+                    2003. The bulk of my career has been centered around
+                    websites, social campaigns and web– based applications. I
+                    have focused heavily on interaction design, web standards,
+                    usability, animation, video, e-commerce and application
+                    architecture. My passion for technology is ever-evolving and
+                    I enjoy new challenges. Behind it all, I’m a problem solver
+                    who likes telling stories. In my free time you’ll find me
+                    surfing, snowboarding, skateboarding, taking photos or
+                    appreciating live music.
+                </p>
+            </ProfileHeader>
             <h2 className="header-bar">Experience</h2>
             <h3>Principal Engineer (IV), VideoAmp</h3>
             <p>
