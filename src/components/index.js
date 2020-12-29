@@ -4,3 +4,4 @@ export * from './Header/Header';
 export * from './Panel/Panel';
 export * from './PostLink/PostLink';
 export * from './Project/Project';
+export * from './ProjectsRecent/ProjectsRecent';

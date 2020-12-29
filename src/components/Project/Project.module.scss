@@ -3,6 +3,8 @@
 }
 
 .Link {
+    display: flex;
+    flex-direction: column-reverse;
     text-decoration: none;
 
     h2 {
@@ -30,6 +32,10 @@
 .Content {
     padding: 1rem;
     font-size: 1.25rem;
+
+    p {
+        margin: 0;
+    }
 
     a {
         background-color: var(--color-main);

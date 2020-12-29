@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-import { Footer, Head, Header, Panel } from '../components';
+import { Footer, Head, Header, Panel, ProjectsRecent } from '../components';
 
 import './Styles.scss';
 
@@ -42,6 +42,7 @@ const IndexPage = () => (
                     <a href="http://tumblr.brainbrian.com">random things</a>.
                 </p>
             </Panel>
+            <ProjectsRecent />
         </main>
         <Footer />
     </>

@@ -11,7 +11,15 @@ const ProjectPage = ({
 }) => {
     const projects = edges
         .filter((edge) => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
-        .map((edge) => <Project key={edge.node.id} node={edge.node} />);
+        .map((edge) => (
+            <Project
+                id={edge.node.id}
+                html={edge.node.html}
+                imageUrl={edge.node.frontmatter.image.publicURL}
+                title={edge.node.frontmatter.title}
+                url={edge.node.frontmatter.url}
+            />
+        ));
 
     return (
         <>
