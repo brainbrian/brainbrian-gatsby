@@ -1,17 +1,19 @@
 ---
 title: 'Seattle 48 Hour Film Festival'
-date: '2016-06-19'
+date: '2016-07-19'
+categories:
+    - 'video-2'
 ---
 
-I spent this past weekend with a crew of 55 volunteers making a short film, 7 minutes in duration, for the [Seattle 48 Hour Film Festival](http://www.48hourfilm.com/seattle-wa). This film was created under the direction of the talented Ben Strickland of [Tricky Whiskey Films](https://www.facebook.com/TrickyWhiskeyFilmsSeattle/). It was my first time doing the 48 Hour Film Fest. It was a great experience seeing what a large group of volunteers, industry pros and amateurs, can come together and make in 2 LONG days.
+I spent this past weekend with a crew of 55 volunteers making a short film, 7 minutes in duration, for the [Seattle 48 Hour Film Festival](http://www.48hourfilm.com/seattle-wa). This film was created under the direction of the talented Ben Strickland of [Tricky Whiskey Films](https://www.facebook.com/TrickyWhiskeyFilmsSeattle/). It was my first time doing the 48 Hour Film Fest. It was a great experience seeing what a large group of volunteers, industry pros and amateurs, can come together and make in 2 LONG days.
 
 https://www.flickr.com/photos/brianbehrens/28125884390/in/album-72157668358213254/
 
-We shot at a private airfield in Monroe, WA.
+We shot at a private airfield in Monroe, WA.
 
 https://www.flickr.com/photos/brianbehrens/27793172463/in/album-72157668358213254/
 
-We got our shot of a plane riding into the sunset and a van following shortly behind with gunfire.
+We got our shot of a plane riding into the sunset and a van following shortly behind with gunfire.
 
 https://www.flickr.com/photos/brianbehrens/27791860554/in/album-72157668358213254/
 

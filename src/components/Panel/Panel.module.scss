@@ -9,6 +9,10 @@
         padding: 4rem;
     }
 
+    @media screen and (min-height: 80rem) {
+        min-height: calc(55vh);
+    }
+
     h1 {
         color: var(--color-light);
         font-size: 4rem;
