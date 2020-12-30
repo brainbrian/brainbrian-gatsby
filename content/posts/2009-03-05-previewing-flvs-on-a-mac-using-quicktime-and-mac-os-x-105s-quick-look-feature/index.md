@@ -1,16 +1,16 @@
 ---
 title: "Previewing FLVs on a Mac using Quicktime and Mac OS X 10.5's Quick Look Feature"
-date: '2009-03-05'
-categories:
-    - 'adobe'
-    - 'apple'
-    - 'flash-development'
-tags:
-    - 'apple'
-    - 'flash'
-    - 'flv'
-    - 'mac-os-x'
-    - 'plugin'
+date: "2009-03-05"
+categories: 
+  - "adobe"
+  - "apple"
+  - "flash-development"
+tags: 
+  - "apple"
+  - "flash"
+  - "flv"
+  - "mac-os-x"
+  - "plugin"
 ---
 
 If you're looking to get FLVs to playback in Quicktime I believe your best route is [Perian](http://www.perian.org).  It installs a preference pane in your System Preferences.  It's simple to install and update.  Another great thing about installing Perian is you can convert FLVs to other formats using Quicktime Pro.

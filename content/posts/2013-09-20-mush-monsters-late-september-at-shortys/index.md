@@ -1,11 +1,11 @@
 ---
 title: "Mush Monsters - late September at Shorty's"
-date: '2013-09-20'
-categories:
-    - 'personal'
-    - 'surfing'
-    - 'travel'
-    - 'video-2'
+date: "2013-09-20"
+categories: 
+  - "personal"
+  - "surfing"
+  - "travel"
+  - "video-2"
 ---
 
 http://vimeo.com/75683300

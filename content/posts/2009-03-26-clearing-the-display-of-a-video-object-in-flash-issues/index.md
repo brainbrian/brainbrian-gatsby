@@ -1,15 +1,15 @@
 ---
-title: 'Clearing the Display of a Video Object in Flash Issues'
-date: '2009-03-26'
-categories:
-    - 'actionscript3'
-tags:
-    - 'actionscript'
-    - 'actionscript-3'
-    - 'as3'
-    - 'bug'
-    - 'flash'
-    - 'video'
+title: "Clearing the Display of a Video Object in Flash Issues"
+date: "2009-03-26"
+categories: 
+  - "actionscript3"
+tags: 
+  - "actionscript"
+  - "actionscript-3"
+  - "as3"
+  - "bug"
+  - "flash"
+  - "video"
 ---
 
 So today a co-worker of mine and I were trying to figure out why he couldn't clear the display of an image in the video object on his stage.  The Adobe documentation states that if you use the clear method of the Video class that it should do the following:

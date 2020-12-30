@@ -1,10 +1,10 @@
 ---
-title: 'Splitboarding Near Rock Mountain'
-date: '2014-03-04'
-categories:
-    - 'snowboarding'
-    - 'travel'
-    - 'video-2'
+title: "Splitboarding Near Rock Mountain"
+date: "2014-03-04"
+categories: 
+  - "snowboarding"
+  - "travel"
+  - "video-2"
 ---
 
 https://vimeo.com/88165396

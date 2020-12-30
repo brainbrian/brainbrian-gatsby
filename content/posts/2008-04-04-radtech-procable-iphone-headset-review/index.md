@@ -1,12 +1,12 @@
 ---
-title: 'RadTech ProCable iPhone Headset Review'
-date: '2008-04-04'
-categories:
-    - 'apple'
-    - 'hardware'
-    - 'technology'
-tags:
-    - 'iphone'
+title: "RadTech ProCable iPhone Headset Review"
+date: "2008-04-04"
+categories: 
+  - "apple"
+  - "hardware"
+  - "technology"
+tags: 
+  - "iphone"
 ---
 
 After seeing the ProCable headphones for the iPhone on TUAW.com, I decided to buy a pair for the low price of $24.95.  I wasn't expecting much, but I was hoping for the best.  I also used the promo code to purchase them, which brought them down in price even more (RTPROMO1).

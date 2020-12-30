@@ -1,13 +1,13 @@
 ---
-title: 'Skydiving with Friends for my 30th Birthday'
-date: '2013-08-10'
-categories:
-    - 'personal'
-    - 'travel'
-    - 'video-2'
-tags:
-    - 'skydive'
-    - 'skydiving'
+title: "Skydiving with Friends for my 30th Birthday"
+date: "2013-08-10"
+categories: 
+  - "personal"
+  - "travel"
+  - "video-2"
+tags: 
+  - "skydive"
+  - "skydiving"
 ---
 
 https://vimeo.com/72366340

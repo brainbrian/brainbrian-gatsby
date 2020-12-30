@@ -1,8 +1,8 @@
 ---
-title: 'Splitboarding in the Crystal Mountain Backcountry'
-date: '2016-03-07'
-categories:
-    - 'snowboarding'
+title: "Splitboarding in the Crystal Mountain Backcountry"
+date: "2016-03-07"
+categories: 
+  - "snowboarding"
 ---
 
 We made it out to Bullion Basin for what possibly could have been a very wet afternoon. We had received some snow the week prior, but it warmed and rained on Saturday.

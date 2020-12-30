@@ -1,8 +1,8 @@
 ---
-title: 'Preseason in the Mt. Baker Backcountry'
-date: '2015-11-18'
-categories:
-    - 'snowboarding'
+title: "Preseason in the Mt. Baker Backcountry"
+date: "2015-11-18"
+categories: 
+  - "snowboarding"
 ---
 
 Someone definitely got the memo that Mt. Baker on Sunday was getting POW. We arrived around 9am to an already halfway-full upper lot. It was filled with 200+ backcountry enthusiasts eager to ride some powder. After last season being such a wash in the Northwest, stoke levels were very high.

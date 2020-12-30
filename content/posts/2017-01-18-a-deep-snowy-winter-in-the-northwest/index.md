@@ -1,10 +1,10 @@
 ---
-title: 'A Deep, Snowy Winter in the Northwest'
-date: '2017-01-18'
-categories:
-    - 'personal'
-    - 'snowboarding'
-    - 'video-2'
+title: "A Deep, Snowy Winter in the Northwest"
+date: "2017-01-18"
+categories: 
+  - "personal"
+  - "snowboarding"
+  - "video-2"
 ---
 
 It has been a great winter of cool temps here in the Pacific Northwest. It all got started in early December. The snow and cool temps have been really consistent. From resort riding to backcountry travels, the fun has not stopped.

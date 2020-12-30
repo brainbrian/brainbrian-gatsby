@@ -9,4 +9,4 @@ We set out from Paradise on Mt. Rainier for a tour up to Cowlitz Rocks. It was a
 
 [View our tour on EveryTrail](http://www.everytrail.com/view_trip.php?trip_id=2126709)
 
-[![mt rainier](http://brainbrian.com/wp-content/uploads/2013/05/mtrainier-640x237.png)](http://brainbrian.com/wp-content/uploads/2013/05/mtrainier.png)
+[![mt rainier](./images/posts/2013/05/mtrainier-640x237.png)](./images/posts/2013/05/mtrainier.png)

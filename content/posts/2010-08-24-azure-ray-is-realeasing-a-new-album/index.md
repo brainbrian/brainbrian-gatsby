@@ -1,11 +1,11 @@
 ---
-title: 'Azure Ray is Realeasing a New Album!'
-date: '2010-08-24'
-categories:
-    - 'music'
-tags:
-    - 'azure-ray'
-    - 'music'
+title: "Azure Ray is Realeasing a New Album!"
+date: "2010-08-24"
+categories: 
+  - "music"
+tags: 
+  - "azure-ray"
+  - "music"
 ---
 
 Azure Ray is releasing a new album after a 6 year hiatus. Both Maria Taylor and Orenda Fink have been off pursing music in their own ways, but are releasing a new full-length album as Azure Ray again on September 14th. Check out a sample of the upcoming album below:
@@ -16,7 +16,7 @@ And, best of all, they'll be playing the [Tractor Tavern in Ballard on October 2
 
 <iframe frameborder="0" name="saddle-creek" height="170" width="450" src="http://api.saddle-creek.com/efa/004/embed.php" marginheight="0" marginwidth="0" scrolling="no"></iframe>
 
-[![Azure Ray - Drawing Down The Moon Album Cover](http://blog.brainbrian.com/wp-content/uploads/2010/08/AZure-Ray-Drawing-Down-The-Moon-Album-Art1-300x300.jpg 'Azure-Ray-Drawing-Down-The-Moon-Album-Art')](http://blog.brainbrian.com/wp-content/uploads/2010/08/AZure-Ray-Drawing-Down-The-Moon-Album-Art1.jpeg)
+[![Azure Ray - Drawing Down The Moon Album Cover](https://brainbrian.com/wp-content/uploads/2010/08/AZure-Ray-Drawing-Down-The-Moon-Album-Art1-300x300.jpg "Azure-Ray-Drawing-Down-The-Moon-Album-Art")](https://brainbrian.com/wp-content/uploads/2010/08/AZure-Ray-Drawing-Down-The-Moon-Album-Art1.jpeg)
 
 Tracklist:
 

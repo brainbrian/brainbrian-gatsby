@@ -1,10 +1,10 @@
 ---
-title: 'Lacie 2big triple 1 TB Enternal Hard Drive Un-boxing'
-date: '2008-03-18'
-categories:
-    - 'apple'
-    - 'hardware'
-    - 'technology'
+title: "Lacie 2big triple 1 TB Enternal Hard Drive Un-boxing"
+date: "2008-03-18"
+categories: 
+  - "apple"
+  - "hardware"
+  - "technology"
 ---
 
 I finally bought the hard drive I've been waiting for over the past 2 months. I'm really excited I finally have the drive and can faithfully know my data is being written across two hot swappable drives. The drive runs several different RAID modes, but the one I fancy is the RAID 1 (safe 100).

@@ -1,10 +1,10 @@
 ---
-title: 'Safari has a very useful hidden debug menu.'
-date: '2008-01-10'
-categories:
-    - 'apple'
-tags:
-    - 'safari'
+title: "Safari has a very useful hidden debug menu."
+date: "2008-01-10"
+categories: 
+  - "apple"
+tags: 
+  - "safari"
 ---
 
 Today, a coworker pointed out to me a feature he discovered in Apple Safari after doing a search for a random error code while writing an Ajax script for Chefmd.com. This is a very useful feature of safari that I'm surprised they don't allow you to activate just in your preferences.

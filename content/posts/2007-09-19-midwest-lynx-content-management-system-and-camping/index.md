@@ -1,10 +1,10 @@
 ---
-title: 'Midwest Lynx Content Management System and Camping'
-date: '2007-09-19'
-categories:
-    - 'miscellaneous'
-    - 'php-mysql'
-    - 'work'
+title: "Midwest Lynx Content Management System and Camping"
+date: "2007-09-19"
+categories: 
+  - "miscellaneous"
+  - "php-mysql"
+  - "work"
 ---
 
 I'm looking forward to wrapping up the new "2.0" version of the content management system I've been working on with Marky at Midwest Love. It should be a good release of it. I think our clients are going to really enjoy it.

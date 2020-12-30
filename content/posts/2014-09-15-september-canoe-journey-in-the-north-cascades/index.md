@@ -1,12 +1,12 @@
 ---
-title: 'September Canoe Journey in the North Cascades'
-date: '2014-09-15'
-categories:
-    - 'personal'
-    - 'travel'
-    - 'video-2'
-tags:
-    - 'ross-lake'
+title: "September Canoe Journey in the North Cascades"
+date: "2014-09-15"
+categories: 
+  - "personal"
+  - "travel"
+  - "video-2"
+tags: 
+  - "ross-lake"
 ---
 
 http://vimeo.com/106230199

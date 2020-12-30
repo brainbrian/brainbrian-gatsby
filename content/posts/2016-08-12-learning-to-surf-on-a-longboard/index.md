@@ -1,9 +1,9 @@
 ---
-title: 'Learning to Surf on a Longboard'
-date: '2016-08-12'
-categories:
-    - 'personal'
-    - 'surfing'
+title: "Learning to Surf on a Longboard"
+date: "2016-08-12"
+categories: 
+  - "personal"
+  - "surfing"
 ---
 
 I picked up surfing about 4 years ago. When I first started I was on a "fun board", a 7'4" [Ocean Pulse](http://www.oceanpulsesurf.com). I quickly went from that surfing [Lib Tech](http://www.lib-tech.com/surfboards/) shortboards about 6'4" or less while working at [Mervin Manufacturing](http://www.mervin.com). Surfing wasn't really an option for me growing up in the Milwaukee, WI area. At the time I didn't find paddling out with icicles on my face appealing.
