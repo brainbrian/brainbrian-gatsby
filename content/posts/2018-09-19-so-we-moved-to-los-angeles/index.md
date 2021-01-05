@@ -1,16 +1,16 @@
 ---
-title: "So we moved to Los Angeles"
-date: "2018-09-19"
-categories: 
-  - "personal"
-  - "surfing"
-  - "travel"
-tags: 
-  - "california"
-  - "la"
-  - "los-angeles"
-  - "surf"
-  - "surfing"
+title: 'So we moved to Los Angeles'
+date: '2018-09-19'
+categories:
+    - 'personal'
+    - 'surfing'
+    - 'travel'
+tags:
+    - 'california'
+    - 'la'
+    - 'los-angeles'
+    - 'surf'
+    - 'surfing'
 ---
 
 So back in June my wife accepted a job in Culver City. So, 3 months later I can say we are finally settled. I even accepted a new position last week at [VideoAmp](http://videoamp.com). A lot has changed in the last couple months. I'm excited to see what the next year holds for us.

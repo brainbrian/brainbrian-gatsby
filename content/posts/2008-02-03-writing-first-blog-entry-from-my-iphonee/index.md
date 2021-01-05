@@ -1,11 +1,11 @@
 ---
-title: "Writing first blog entry from my iPhone"
-date: "2008-02-03"
-categories: 
-  - "apple"
-  - "technology"
-tags: 
-  - "iphone"
+title: 'Writing first blog entry from my iPhone'
+date: '2008-02-03'
+categories:
+    - 'apple'
+    - 'technology'
+tags:
+    - 'iphone'
 ---
 
 I finally decided to drop sprint after 5 long years. After my contract expired in october I've had nothing but problems with sprint. In August they messed up my plan on my treo 700p and began charging me around 60 dollars a month. After numerous 45 min phone calls with customer service, I decided I've had enough.

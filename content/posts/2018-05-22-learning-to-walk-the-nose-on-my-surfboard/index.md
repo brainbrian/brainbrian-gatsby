@@ -1,10 +1,10 @@
 ---
-title: "Learning to Walk The Nose On My Surfboard"
-date: "2018-05-22"
-categories: 
-  - "personal"
-  - "surfing"
-  - "video-2"
+title: 'Learning to Walk The Nose On My Surfboard'
+date: '2018-05-22'
+categories:
+    - 'personal'
+    - 'surfing'
+    - 'video-2'
 ---
 
 I've been working on learning to nose-ride on my longboard. This was a perfect, glassy morning for doing just that.

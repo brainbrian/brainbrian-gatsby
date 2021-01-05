@@ -1,8 +1,8 @@
 ---
-title: "Splitboarding near Stevens Pass"
-date: "2015-12-29"
-categories: 
-  - "snowboarding"
+title: 'Splitboarding near Stevens Pass'
+date: '2015-12-29'
+categories:
+    - 'snowboarding'
 ---
 
 I took my friend Mel up to the Yodelin area at Stevens Pass. We've been getting hammered with snow in the Pacific Northwest this December and I wanted to get her into a zone with lower consequence considering it was her first time out on her splitboard.

@@ -1,9 +1,9 @@
 ---
-title: "To Wild Waves and Beyond!"
-date: "2013-10-31"
-categories: 
-  - "personal"
-  - "video-2"
+title: 'To Wild Waves and Beyond!'
+date: '2013-10-31'
+categories:
+    - 'personal'
+    - 'video-2'
 ---
 
 http://vimeo.com/78175750

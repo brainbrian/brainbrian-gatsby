@@ -1,13 +1,13 @@
 ---
-title: "American Hipster Presents: Seattle"
-date: "2012-11-29"
-categories: 
-  - "music"
-  - "personal"
-  - "travel"
-tags: 
-  - "lifestyle"
-  - "seattle"
+title: 'American Hipster Presents: Seattle'
+date: '2012-11-29'
+categories:
+    - 'music'
+    - 'personal'
+    - 'travel'
+tags:
+    - 'lifestyle'
+    - 'seattle'
 ---
 
 There's a new show on YouTube called American Hipster Presents. I stumbled upon the Linda Derschang episode last night. They're well produced videos about a community I love so much. I hope you enjoy as much as I did.

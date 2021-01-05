@@ -1,15 +1,15 @@
 ---
-title: "Superscript and Subscript Within Dynamic Text Fields in Flash"
-date: "2009-04-23"
-categories: 
-  - "actionscript3"
-  - "flash-development"
-tags: 
-  - "actionscript"
-  - "dynamic-text"
-  - "flash"
-  - "superscript"
-  - "text"
+title: 'Superscript and Subscript Within Dynamic Text Fields in Flash'
+date: '2009-04-23'
+categories:
+    - 'actionscript3'
+    - 'flash-development'
+tags:
+    - 'actionscript'
+    - 'dynamic-text'
+    - 'flash'
+    - 'superscript'
+    - 'text'
 ---
 
 So today I ran into the issue of getting superscripted ® and TM characters within dynamic text fields.  The <sup></sup> doesn't work for this within flash, neither will any CSS trickery.  So I turned to font embeds after reading through some other blog posts.

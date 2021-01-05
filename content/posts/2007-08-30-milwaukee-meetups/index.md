@@ -1,8 +1,8 @@
 ---
-title: "Milwaukee Web/Design Groups..."
-date: "2007-08-30"
-categories: 
-  - "miscellaneous"
+title: 'Milwaukee Web/Design Groups...'
+date: '2007-08-30'
+categories:
+    - 'miscellaneous'
 ---
 
 [http://www.web414.com](http://www.web414.com)

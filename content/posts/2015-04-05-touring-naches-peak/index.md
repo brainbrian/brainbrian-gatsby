@@ -1,8 +1,8 @@
 ---
-title: "Touring Naches Peak"
-date: "2015-04-05"
-categories: 
-  - "snowboarding"
+title: 'Touring Naches Peak'
+date: '2015-04-05'
+categories:
+    - 'snowboarding'
 ---
 
 Our touring group got up to Chinook Pass around 9 am. We scrapped our original plan to try and attack the Sheep Lake Couloir due to very minimal coverage on southern facing slopes (not sure why we thought that might work). We had no idea how you would even begin the approach from Chinook Pass let alone even if we could expect snow after what would have likely been 1,000+ feet of hiking dirt and rocks.

@@ -1,10 +1,10 @@
 ---
-title: "Surfing Westport, Washington on a Clean Winter Day"
-date: "2018-02-20"
-categories: 
-  - "surfing"
-  - "travel"
-  - "video-2"
+title: 'Surfing Westport, Washington on a Clean Winter Day'
+date: '2018-02-20'
+categories:
+    - 'surfing'
+    - 'travel'
+    - 'video-2'
 ---
 
 I headed to Westport, WA the weekend of February 10th, 2018 for some what shapped up to be an amazing weekend of surfing.

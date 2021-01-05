@@ -1,8 +1,8 @@
 ---
-title: "Colombia 2013"
-date: "2013-05-21"
-categories: 
-  - "travel"
+title: 'Colombia 2013'
+date: '2013-05-21'
+categories:
+    - 'travel'
 ---
 
 I took a trip to Colombia (April 25th, 2013 - May 5th, 2013) with some good friends this year. We stayed at an amazing place we rented in Cartagena for the first half of the trip. For the second half we flew to San Andres island where we stayed at our friend's family vacation home. It was a much needed taste of paradise.

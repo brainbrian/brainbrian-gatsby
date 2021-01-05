@@ -1,8 +1,8 @@
 ---
-title: "Seattle 48 Hour Film Festival"
-date: "2016-07-19"
-categories: 
-  - "video-2"
+title: 'Seattle 48 Hour Film Festival'
+date: '2016-07-19'
+categories:
+    - 'video-2'
 ---
 
 I spent this past weekend with a crew of 55 volunteers making a short film, 7 minutes in duration, for the [Seattle 48 Hour Film Festival](http://www.48hourfilm.com/seattle-wa). This film was created under the direction of the talented Ben Strickland of [Tricky Whiskey Films](https://www.facebook.com/TrickyWhiskeyFilmsSeattle/). It was my first time doing the 48 Hour Film Fest. It was a great experience seeing what a large group of volunteers, industry pros and amateurs, can come together and make in 2 LONG days.

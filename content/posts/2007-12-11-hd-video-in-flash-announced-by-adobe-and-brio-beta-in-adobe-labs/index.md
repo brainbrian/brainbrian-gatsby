@@ -1,9 +1,9 @@
 ---
-title: "HD Video in Flash announced by Adobe and BRIO Beta in Adobe Labs!"
-date: "2007-12-11"
-categories: 
-  - "adobe"
-  - "technology"
+title: 'HD Video in Flash announced by Adobe and BRIO Beta in Adobe Labs!'
+date: '2007-12-11'
+categories:
+    - 'adobe'
+    - 'technology'
 ---
 
 Adobe has me excited about a couple things this past week. First the announcement of HD Video in flash player! Adobe released flash player 9 update 3 and it now supports HD quality video: [Press Release](http://www.adobe.com/aboutadobe/pressroom/pressreleases/200712/120407adobemoviestar.html).

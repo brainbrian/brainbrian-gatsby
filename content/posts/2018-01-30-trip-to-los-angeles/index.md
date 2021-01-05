@@ -1,10 +1,10 @@
 ---
-title: "Trip to Los Angeles"
-date: "2018-01-30"
-categories: 
-  - "surfing"
-  - "travel"
-  - "video-2"
+title: 'Trip to Los Angeles'
+date: '2018-01-30'
+categories:
+    - 'surfing'
+    - 'travel'
+    - 'video-2'
 ---
 
 https://www.youtube.com/watch?v=QfbXJ8m8NqY
