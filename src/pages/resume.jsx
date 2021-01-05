@@ -180,21 +180,26 @@ const ResumePage = () => (
             <h2 className="header-bar">Education</h2>
             <h3>Milwaukee Area Technical College</h3>
             <p>
-                Milwaukee, WI | 2001 – 2005
+                Milwaukee, WI | 2001 – 2003
                 <br />
                 Associates Degree in Television &amp; Video Production
+            </p>
+            <h3>Milwaukee Area Technical College</h3>
+            <p>
+                Milwaukee, WI | 2003 – 2005
                 <br />
                 Associates Degree in Visual Communications
             </p>
 
             <h2 className="header-bar">Skills</h2>
             <p>
-                HTML, CSS, JavaScript, Node.js, React, Vue.js, Angular, webpack,
-                Gulp, Grunt, Preprocessors, Babel, PHP, MySQL, NoSQL, Source
-                Control (Git &amp; SVN), WordPress, JSON, XML, Social APIs, JS
-                Libraries (jQuery, Underscore, GreenSock), Agile Methodology,
-                Adobe Creative Cloud, Project Estimation/Planning, Managing
-                Development Teams, Video and Photography
+                HTML, CSS, JavaScript, TypeScript, Node.js, React, build
+                webpack, Jenkins, Preprocessors, Babel, Vue.js, Angular, PHP,
+                MySQL, NoSQL, Source Control (Git &amp; SVN), WordPress, JSON,
+                XML, Social APIs, JS Libraries (Underscore, GreenSock, Jest,
+                Cypress, jQuery), Agile Methodology, Adobe Creative Cloud,
+                Project Estimation/Planning, Managing Development Teams, Video
+                Production and Photography
             </p>
         </main>
         <Footer />
