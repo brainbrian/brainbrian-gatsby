@@ -1,3 +1,5 @@
+@import '../../styles/Config.scss';
+
 $height: 5rem;
 $height-border: 1rem;
 
@@ -45,6 +47,10 @@ $height-border: 1rem;
 }
 
 .Tagline {
+    @media screen and (max-width: $size-sm) {
+        display: none;
+    }
+
     color: var(--color-main);
     font-size: 0.5rem;
     font-style: italic;
@@ -52,11 +58,11 @@ $height-border: 1rem;
     padding: 0 2rem;
     white-space: nowrap;
 
-    @media screen and (min-width: 68rem) {
+    @media screen and (min-width: $size-sm) {
         font-size: 0.75rem;
     }
 
-    @media screen and (min-width: 75rem) {
+    @media screen and (min-width: $size-md) {
         font-size: 1rem;
     }
 }

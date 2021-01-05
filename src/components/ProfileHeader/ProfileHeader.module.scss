@@ -1,5 +1,9 @@
+@import '../../styles/Config.scss';
+
 .ProfileHeader {
-    display: flex;
+    @media screen and (min-width: $size-sm) {
+        display: flex;
+    }
 }
 
 .ProfileImage {
@@ -10,8 +14,17 @@
 }
 
 .Aside {
-    max-width: 14rem;
-    width: 30%;
+    max-width: 75%;
+    margin: 2rem auto;
+
+    @media screen and (min-width: $size-xs) {
+        max-width: 50%;
+    }
+
+    @media screen and (min-width: $size-sm) {
+        max-width: 14rem;
+        width: 30%;
+    }
 }
 
 .Biography {
@@ -23,11 +36,11 @@
         line-height: 1.5;
         margin: 0;
 
-        @media screen and (min-width: 68rem) {
+        @media screen and (min-width: $size-sm) {
             font-size: 1.25rem;
         }
 
-        @media screen and (min-width: 75rem) {
+        @media screen and (min-width: $size-md) {
             font-size: 1.5rem;
         }
     }

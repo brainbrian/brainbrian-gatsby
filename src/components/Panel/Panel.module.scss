@@ -1,3 +1,5 @@
+@import '../../styles/Config.scss';
+
 .Panel {
     color: var(--color-light);
     margin: 0;
@@ -5,11 +7,11 @@
     position: relative;
     min-height: calc(100vh - 14rem);
 
-    @media screen and (min-width: 68rem) {
+    @media screen and (min-width: $size-sm) {
         padding: 4rem;
     }
 
-    @media screen and (min-height: 80rem) {
+    @media screen and (min-height: $size-lg) {
         min-height: calc(55vh);
     }
 

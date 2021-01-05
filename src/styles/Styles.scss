@@ -1,15 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
 
-$color-main: #23a1ff;
-$color-light: #fff;
-$color-dark: #484848;
-$color-darker: #262626;
-
-$font-headline: 'Poppins', sans-serif;
-$font-body: 'Open Sans', sans-serif;
-
-$radius: 1rem;
-$max-width: 90rem;
+@import './Config.scss';
 
 :root {
     --color-main: #{$color-main};
@@ -19,6 +10,12 @@ $max-width: 90rem;
     --font-headline: #{$font-headline};
     --font-body: #{$font-body};
     --max-width: #{$max-width};
+    --size-xs: #{$size-xs};
+    --size-sm: #{$size-sm};
+    --size-md: #{$size-md};
+    --size-lg: #{$size-lg};
+    --size-xl: #{$size-xl};
+    --size-xxl: #{$size-xxl};
 }
 
 body {

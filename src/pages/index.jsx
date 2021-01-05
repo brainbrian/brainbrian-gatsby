@@ -2,7 +2,7 @@ import * as React from 'react';
 
 import { Footer, Head, Header, Panel, ProjectsRecent } from '../components';
 
-import './Styles.scss';
+import '../styles/Styles.scss';
 
 const IndexPage = () => (
     <>
