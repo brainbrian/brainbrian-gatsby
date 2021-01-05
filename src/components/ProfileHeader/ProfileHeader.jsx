@@ -7,7 +7,7 @@ export const ProfileHeader = ({ children }) => (
         <div className={Styles.Biography}>{children}</div>
         <aside className={Styles.Aside}>
             <img
-                src="./images/brian-behrens-profile.jpg"
+                src="/images/brian-behrens-profile.jpg"
                 alt="Portrait of Brian Behrens and his dachshund Tilly"
                 className={Styles.ProfileImage}
             />
