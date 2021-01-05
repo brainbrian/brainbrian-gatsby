@@ -20,11 +20,11 @@ const IndexPage = () => (
                         </a>{' '}
                         and <a href="https://github.com/brainbrian">code</a> in
                         Los Angeles. I’m a{' '}
-                        <a href="https://www.youtube.com/watch?v=JPOGfMQzMVY">
+                        <a href="https://www.youtube.com/watch?v=HsHbL8FWqMw">
                             surfer
                         </a>
                         ,{' '}
-                        <a href="https://www.youtube.com/watch?v=7HHHjXwJxwk">
+                        <a href="https://www.youtube.com/watch?v=ehikEw8HsbY">
                             snowboarder
                         </a>
                         ,{' '}
