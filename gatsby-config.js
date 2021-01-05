@@ -1,6 +1,7 @@
 module.exports = {
     siteMetadata: {
         title: 'brainbrian',
+        siteUrl: 'https://brainbrian.com',
     },
     plugins: [
         'gatsby-plugin-sass',
