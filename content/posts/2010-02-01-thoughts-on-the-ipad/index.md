@@ -23,4 +23,4 @@ Either way, these are where I feel the iPad has fallen short:
 
 With that said, I still have hope for the iPad.  I also think it's exciting that all my iPhone developer friends are now developers for the iPad as well.
 
-There are 3 short articles that I found good reads on this same subject at [Gizmodo](http://i.gizmodo.com/5458382/8-things-that-suck-about-the-ipad), [idsgn](http://www.idsgn.org/posts/ipad-the-forgotten-details/), and [Mike Chambers](http://www.mikechambers.com/blog/2010/01/28/some-personal-thoughts-on-apple-and-the-trend-towards-closed-platforms/).
+There are 3 short articles that I found good reads on this same subject at [Gizmodo](https://i.gizmodo.com/5458382/8-things-that-suck-about-the-ipad), [idsgn](https://www.idsgn.org/posts/ipad-the-forgotten-details/), and [Mike Chambers](https://www.mikechambers.com/blog/2010/01/28/some-personal-thoughts-on-apple-and-the-trend-towards-closed-platforms/).

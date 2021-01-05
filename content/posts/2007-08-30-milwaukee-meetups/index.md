@@ -5,8 +5,8 @@ categories:
     - 'miscellaneous'
 ---
 
-[http://www.web414.com](http://www.web414.com)
+[https://www.web414.com](https://www.web414.com)
 
-[http://webdesign.meetup.com/443/](http://webdesign.meetup.com/443/)
+[https://webdesign.meetup.com/443/](https://webdesign.meetup.com/443/)
 
-[http://graphicdesign.meetup.com/483/](http://graphicdesign.meetup.com/483/)
+[https://graphicdesign.meetup.com/483/](https://graphicdesign.meetup.com/483/)

@@ -2,7 +2,7 @@
 title: 'MSN TV: Discovery Life'
 date: '2010-03-01'
 image: './image.jpg'
-url: 'http://tv.msn.com/life/'
+url: 'https://tv.msn.com/life/'
 tags: ['actionscript', 'javascript', 'motion design', 'technical lead', 'xml']
 ---
 

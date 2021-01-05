@@ -11,4 +11,4 @@ tags:
 
 Go get it!
 
-[http://www.adobe.com/go/getflash](http://www.adobe.com/go/getflash 'Get Flash Player 10')
+[https://www.adobe.com/go/getflash](https://www.adobe.com/go/getflash 'Get Flash Player 10')

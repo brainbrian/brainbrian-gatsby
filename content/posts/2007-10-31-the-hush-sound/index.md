@@ -5,4 +5,4 @@ categories:
     - 'work'
 ---
 
-The Hush Sound website became live last week.  There are still revisions, but it's a good start. [thehushsound.com](http://www.thehushsound.com)
+The Hush Sound website became live last week.  There are still revisions, but it's a good start. [thehushsound.com](https://www.thehushsound.com)

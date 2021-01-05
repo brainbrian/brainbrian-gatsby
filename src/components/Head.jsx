@@ -19,7 +19,7 @@ export const Head = ({ children, description, title }) => (
         />
         <meta
             name="author"
-            content="Brian Behrens, http://www.brainbrian.com"
+            content="Brian Behrens, https://www.brainbrian.com"
         />
         <meta
             name="description"

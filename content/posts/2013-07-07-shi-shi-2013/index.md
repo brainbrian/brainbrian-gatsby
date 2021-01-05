@@ -11,4 +11,4 @@ We traveled to the coast to spend another 4th of July with friends drinking beer
 
 [![Shi Shi 2013](/images/posts/2013/08/shi-shi.jpg)](/images/posts/2013/08/shi-shi.jpg)
 
-Check out more on Flickr: [http://www.flickr.com/photos/brianbehrens/sets/72157634590186483/](http://www.flickr.com/photos/brianbehrens/sets/72157634590186483/)
+Check out more on Flickr: [https://www.flickr.com/photos/brianbehrens/sets/72157634590186483/](https://www.flickr.com/photos/brianbehrens/sets/72157634590186483/)

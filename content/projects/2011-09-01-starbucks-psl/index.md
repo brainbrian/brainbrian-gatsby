@@ -2,7 +2,7 @@
 title: 'Starbucks: Pumpkin Spice Latte Facebook Campaign'
 date: '2011-09-01'
 image: './image.jpg'
-url: 'http://www.mashable.com/2011/08/18/starbucks-pumpkin-spice-latte-facebook/'
+url: 'https://www.mashable.com/2011/08/18/starbucks-pumpkin-spice-latte-facebook/'
 tags: ['actionscript', 'javascript', 'facebook', 'technical lead']
 ---
 

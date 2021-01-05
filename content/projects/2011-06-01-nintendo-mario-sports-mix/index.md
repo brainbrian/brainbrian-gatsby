@@ -2,7 +2,7 @@
 title: 'Nintendo: Mario Sports Mix'
 date: '2011-06-01'
 image: './image.jpg'
-url: 'http://mariosportsmix.nintendo.com'
+url: 'https://mariosportsmix.nintendo.com'
 tags:
     [
         'actionscript',

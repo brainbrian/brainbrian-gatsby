@@ -5,4 +5,4 @@ categories:
     - 'miscellaneous'
 ---
 
-Lea and I will have a [dog](http://www.wihumane.org/animals/dogs.aspx 'Milwaukee Humane Society')!
+Lea and I will have a [dog](https://www.wihumane.org/animals/dogs.aspx 'Milwaukee Humane Society')!

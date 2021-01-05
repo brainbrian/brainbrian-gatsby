@@ -7,7 +7,7 @@ categories:
 
 I love that he commented on working on snowboarding and gardening. Even the most brilliant of minds still have time to play!
 
-You can view the video [on AIR... Bus Tour](http://onair.adobe.com/blogs/videos/2007/05/14/colin-moock-interview-on-essential-actionscript-3/ 'Colin Moock').
+You can view the video [on AIR... Bus Tour](https://onair.adobe.com/blogs/videos/2007/05/14/colin-moock-interview-on-essential-actionscript-3/ 'Colin Moock').
 
 I have the as3 Cookbook, but it's time to go out and buy this one. I got an offer through O'Reilly to upgrade for cheap anyway because I have the as2 book. Who-hoo!
 

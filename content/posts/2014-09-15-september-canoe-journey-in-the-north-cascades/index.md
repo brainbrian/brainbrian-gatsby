@@ -9,6 +9,6 @@ tags:
     - 'ross-lake'
 ---
 
-http://vimeo.com/106230199
+https://vimeo.com/106230199
 
 Traveled 22 miles via canoe around the North Cascades of the great Pacific Northwest with good friends, 2 dachshunds and a GoPro. Come on in, the water is great!

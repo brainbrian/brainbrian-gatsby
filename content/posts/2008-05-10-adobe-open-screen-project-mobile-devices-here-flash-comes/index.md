@@ -12,4 +12,4 @@ tags:
     - 'web-development'
 ---
 
-I'm sure a lot of people in the Flash community have already heard.  For the few of you who haven't, this is huge!  When considering what this will do for mobile devices and even the possibilities on gaming systems like the Wii and PS3, it's very exciting.  [Check out a video on the subject](http://www.adobe.com/openscreenproject/developers/).  There are many more blogs out there on this topic.
+I'm sure a lot of people in the Flash community have already heard.  For the few of you who haven't, this is huge!  When considering what this will do for mobile devices and even the possibilities on gaming systems like the Wii and PS3, it's very exciting.  [Check out a video on the subject](https://www.adobe.com/openscreenproject/developers/).  There are many more blogs out there on this topic.

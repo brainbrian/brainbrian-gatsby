@@ -7,4 +7,4 @@ categories:
 
 It's crazy what people get away with.
 
-[openflv.com](http://openflv.com/tag?t=Movie 'openflv')
+[openflv.com](https://openflv.com/tag?t=Movie 'openflv')

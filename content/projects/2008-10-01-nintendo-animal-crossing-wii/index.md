@@ -2,7 +2,7 @@
 title: 'Nintendo: Animal Crossing Wii'
 date: '2008-10-01'
 image: './image.jpg'
-url: 'http://www.animal-crossing.com'
+url: 'https://www.animal-crossing.com'
 tags: ['actionscript', 'motion design', 'xml']
 ---
 

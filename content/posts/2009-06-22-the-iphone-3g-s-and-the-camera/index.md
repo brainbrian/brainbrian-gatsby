@@ -5,9 +5,9 @@ categories:
     - 'miscellaneous'
 ---
 
-[![](http://farm4.static.flickr.com/3388/3642665421_b2abcdf682_m.jpg)](http://www.flickr.com/photos/brianbehrens/3642665421/ 'photo sharing')  
-[Broken Disco 2.0 @ Chop Suey](http://www.flickr.com/photos/brianbehrens/3642665421/)  
-Originally uploaded by [Brian Behrens](http://www.flickr.com/people/brianbehrens/)
+[![](https://farm4.static.flickr.com/3388/3642665421_b2abcdf682_m.jpg)](https://www.flickr.com/photos/brianbehrens/3642665421/ 'photo sharing')  
+[Broken Disco 2.0 @ Chop Suey](https://www.flickr.com/photos/brianbehrens/3642665421/)  
+Originally uploaded by [Brian Behrens](https://www.flickr.com/people/brianbehrens/)
 
 I picked up the new phone on Friday just before lunch at the AT&T store in downtown Seattle. There was no line when I arrived, but one formed shortly after. With there being no line and AT&T stating the only phone left in stock was exactly the one I wanted, I figured it'd be best I purchase it.
 

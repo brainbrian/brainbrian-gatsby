@@ -19,4 +19,4 @@ To hide the menu again, just enter the following:
 
 Enjoy.
 
-Read more at [macosxhints.com](http://www.macosxhints.com/article.php?story=20030110063041629).
+Read more at [macosxhints.com](https://www.macosxhints.com/article.php?story=20030110063041629).

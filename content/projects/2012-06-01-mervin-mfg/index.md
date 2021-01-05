@@ -2,7 +2,7 @@
 title: 'Mervin Manufacturing: Responsive Website Rebuild'
 date: '2012-06-01'
 image: './image.jpg'
-url: 'http://www.mervin.com'
+url: 'https://www.mervin.com'
 tags:
     [
         'cms',

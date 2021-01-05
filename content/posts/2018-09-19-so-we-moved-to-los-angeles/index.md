@@ -13,7 +13,7 @@ tags:
     - 'surfing'
 ---
 
-So back in June my wife accepted a job in Culver City. So, 3 months later I can say we are finally settled. I even accepted a new position last week at [VideoAmp](http://videoamp.com). A lot has changed in the last couple months. I'm excited to see what the next year holds for us.
+So back in June my wife accepted a job in Culver City. So, 3 months later I can say we are finally settled. I even accepted a new position last week at [VideoAmp](https://videoamp.com). A lot has changed in the last couple months. I'm excited to see what the next year holds for us.
 
 Since the move I've been surfing a lot; go figure. On the weekends we typically head south down to San-O or north to Malibu.
 

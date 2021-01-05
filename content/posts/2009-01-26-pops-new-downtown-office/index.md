@@ -11,6 +11,6 @@ I've been working at POP for over 6 months now. It's been an exciting experience
 
 Check out the blog from Dave Curry, our group creative director:
 
-[http://www.davecurry.net/2009/01/25/inspirational-workspace-pop/](http://www.davecurry.net/2009/01/25/inspirational-workspace-pop/)
+[https://www.davecurry.net/2009/01/25/inspirational-workspace-pop/](https://www.davecurry.net/2009/01/25/inspirational-workspace-pop/)
 
-![POP's downtown office](http://farm4.static.flickr.com/3423/3224347196_fb2c166d90_o.jpg)
+![POP's downtown office](https://farm4.static.flickr.com/3423/3224347196_fb2c166d90_o.jpg)

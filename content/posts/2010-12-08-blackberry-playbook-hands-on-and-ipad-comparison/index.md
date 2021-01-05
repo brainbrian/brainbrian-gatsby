@@ -16,4 +16,4 @@ tags:
     - 'tablet'
 ---
 
-I'm super excited about the [BlackBerry PlayBook](http://us.blackberry.com/playbook-tablet/) tablet. We've been tinkering with the [SDK](http://us.blackberry.com/developers/tablet/) at work. The videos of the actual device being used are starting to pop up and it's looking like a promising tablet.
+I'm super excited about the [BlackBerry PlayBook](https://us.blackberry.com/playbook-tablet/) tablet. We've been tinkering with the [SDK](https://us.blackberry.com/developers/tablet/) at work. The videos of the actual device being used are starting to pop up and it's looking like a promising tablet.

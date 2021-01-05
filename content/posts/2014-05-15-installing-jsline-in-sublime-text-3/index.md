@@ -10,9 +10,9 @@ categories:
 
 I got a new computer today and needed a refresher on installing JSLint with Sublime Text. Linters are now run through the SublimeLinter package/framework. To install Package Control and SublimeLinter follow the links below.
 
-Install Package Control specific to the version of Sublime Text you’re running: [sublime.wbond.net/installation](http://sublime.wbond.net/installation)
+Install Package Control specific to the version of Sublime Text you’re running: [sublime.wbond.net/installation](https://sublime.wbond.net/installation)
 
-Install SublimeLinter and Linter plugins: [sublimelinter.readthedocs.org/en/latest/installation.html](http://sublimelinter.readthedocs.org/en/latest/installation.html)
+Install SublimeLinter and Linter plugins: [sublimelinter.readthedocs.org/en/latest/installation.html](https://sublimelinter.readthedocs.org/en/latest/installation.html)
 
 The links provide simple straightforward instructions for basic linter configurations for Sublime Text.
 
@@ -22,4 +22,4 @@ Also... you likely want to set up Sublime Text's command line tool. Do so by run
 
 This will set up a symlink to the command 'subl' within Terminal.
 
-More documentation here: [www.sublimetext.com/docs/3/osx_command_line.html](http://www.sublimetext.com/docs/3/osx_command_line.html)
+More documentation here: [www.sublimetext.com/docs/3/osx_command_line.html](https://www.sublimetext.com/docs/3/osx_command_line.html)

@@ -2,7 +2,7 @@
 title: 'Starbucks: Frappuccino Brand Website'
 date: '2011-11-01'
 image: './image.jpg'
-url: 'http://www.frappuccino.com'
+url: 'https://www.frappuccino.com'
 tags: ['actionscript', 'javascript', 'facebook', 'technical lead']
 ---
 

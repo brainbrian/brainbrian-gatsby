@@ -43,4 +43,4 @@ https://www.flickr.com/photos/68355358@N07/13320892785/in/set-72157642720244924
 
 <iframe src="https://www.strava.com/activities/124287901/embed/acf431f049aa3a4aeb5e6470ef2daae16a0a3314" width="590" height="405" frameborder="0" scrolling="no"></iframe>
 
-[Featured on thepeakoftheweek.com](http://thepeakoftheweek.com/2014/03/the-slot-couloir-snoqualmie-pass/)
+[Featured on thepeakoftheweek.com](https://thepeakoftheweek.com/2014/03/the-slot-couloir-snoqualmie-pass/)

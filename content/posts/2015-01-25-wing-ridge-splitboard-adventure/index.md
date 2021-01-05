@@ -7,9 +7,9 @@ categories:
 
 January 22 - January 25, 2015
 
-A trip with 11 fellow _peakers_ into the Wallowa Moutains of Northeast Oregon through [Wing Ridge Ski Tours](http://www.wingski.com).
+A trip with 11 fellow _peakers_ into the Wallowa Moutains of Northeast Oregon through [Wing Ridge Ski Tours](https://www.wingski.com).
 
-<iframe src="http://www.strava.com/activities/247148154/embed/d944a134147b9beda85bec4a2de3ce7207121a32" width="100%" height="405" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.strava.com/activities/247148154/embed/d944a134147b9beda85bec4a2de3ce7207121a32" width="100%" height="405" frameborder="0" scrolling="no"></iframe>
 
 ### Pre Day 1 - January 21st
 
@@ -37,7 +37,7 @@ Shawn pushed the ridge almost to the peak between Salt Creek Bowl and 1st Bowl.
 
 https://www.flickr.com/photos/131013055@N08/16395003382/in/set-72157650124652077/
 
-Dinner followed. Our group had night one of cooking duties. We cooked chicken stir-fry. The crew was greatly satisfied with our meal. We cooked way too many noodles, but hey, we didn't leave anyone hungry. Washing dishes without a proper wash basin proved to be interesting. The crew wrapped the night up with a game of [_Oh Hell_](http://en.wikipedia.org/wiki/Oh_Hell). We all got a good nights rest in our toasty huts.
+Dinner followed. Our group had night one of cooking duties. We cooked chicken stir-fry. The crew was greatly satisfied with our meal. We cooked way too many noodles, but hey, we didn't leave anyone hungry. Washing dishes without a proper wash basin proved to be interesting. The crew wrapped the night up with a game of [_Oh Hell_](https://en.wikipedia.org/wiki/Oh_Hell). We all got a good nights rest in our toasty huts.
 
 https://www.flickr.com/photos/131013055@N08/16208530580/in/set-72157650124652077
 
@@ -111,7 +111,7 @@ After sweating most of the alcohol out on the way up, Shawn and I opted for the 
 
 https://www.flickr.com/photos/brianbehrens/16383461702/
 
-The snowpack in the shade seemed very stable, even in wind loaded areas. At the bottom of the bowl near the skin trail, I cracked an ollie only to break yet another crappy, aluminum Karakoram ankle strap bolt (Karakoram has fixed this on newer models of the [Split30s](http://www.splitboardbindings.com/products/splitboard-bindings/)). I really need to get a new steel bolt from them. The 4 aluminum ones I've broken are all crap.
+The snowpack in the shade seemed very stable, even in wind loaded areas. At the bottom of the bowl near the skin trail, I cracked an ollie only to break yet another crappy, aluminum Karakoram ankle strap bolt (Karakoram has fixed this on newer models of the [Split30s](https://www.splitboardbindings.com/products/splitboard-bindings/)). I really need to get a new steel bolt from them. The 4 aluminum ones I've broken are all crap.
 
 I captured video of Shawn as he took some soft, soul turns down a berm of 1st Bowl near a skin track we were about to head up. All of the crew was ripping 1st Bowl in smaller groups at their leisure.
 
@@ -129,7 +129,7 @@ https://www.flickr.com/photos/131013055@N08/16210025527/in/set-72157650124652077
 
 At this point some of the skiers in the group split off. Most of us went back up the same skin track in 1st Bowl. I took a super fun line by Bish's 1st drop. I wanted this little _root booter_, as Tyler called it. The snow up top was crunchy due to wind, but the landing after the drop was soft and smooth. I got video of the boys blasting through fun, rolling berms with a couple different hits. It made for some fun video.
 
-http://instagram.com/p/yd\_g25kEMb/
+https://instagram.com/p/yd\_g25kEMb/
 
 We went back up for 1 more turn on the lines we just hit. Sebastian and Tyler boosted over a tree. Sebastian gave the tree a well deserved tap for good measure. I popped a tail grab off a wind cornice, and had some other fun airs over various terrain features.
 
@@ -159,4 +159,4 @@ https://www.flickr.com/photos/130915602@N05/16352810356/
 
 Happy Peaking!
 
-[Featured on thepeakoftheweek.com](http://thepeakoftheweek.com/2015/01/wing-ridge-wallowa-mountains/)
+[Featured on thepeakoftheweek.com](https://thepeakoftheweek.com/2015/01/wing-ridge-wallowa-mountains/)

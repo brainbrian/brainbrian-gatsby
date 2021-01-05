@@ -9,4 +9,4 @@ tags:
 
 We spent the day January 22nd hiking Cowboy Mountain. Here are some of the results.
 
-Music in the video: [Ducktails](http://www.myspace.com/ducktailss) - Hamilton Road [The Pharmacy](http://www.myspace.com/pharmacy) - Little Toys On A Shelf
+Music in the video: [Ducktails](https://www.myspace.com/ducktailss) - Hamilton Road [The Pharmacy](https://www.myspace.com/pharmacy) - Little Toys On A Shelf
