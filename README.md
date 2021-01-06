@@ -1,5 +1,7 @@
 # BrainBrian.com Gatbsy Site
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2f572a6d-fb41-403e-973f-5b232e8cb9a9/deploy-status)](https://app.netlify.com/sites/brain-brian-gatsby/deploys)
+
 ## 🚀 Quick start
 
 1.  **Clone the repo**
