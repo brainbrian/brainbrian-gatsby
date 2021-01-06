@@ -8,19 +8,23 @@ $height-border: 1rem;
     background-color: var(--color-darker);
     display: flex;
     flex-direction: row;
-    height: $height;
     padding-bottom: $height-border;
     position: relative;
 }
 
 .HeaderContainer {
-    align-items: center;
+    align-items: left;
     display: flex;
-    flex-direction: row;
-    height: $height;
+    flex-direction: column;
     margin: 0 auto;
     max-width: var(--max-width);
     width: 100%;
+
+    @media screen and (min-width: $size-xs) {
+        align-items: center;
+        flex-direction: row;
+        height: $height;
+    }
 }
 
 .Logo {
@@ -30,19 +34,29 @@ $height-border: 1rem;
     display: flex;
     flex: 0 0 auto;
     font-family: var(--font-headline);
-    font-size: 2rem;
+    font-size: 1.25rem;
     font-weight: 700;
-    height: $height;
+    height: 3rem;
     justify-content: center;
     margin: 0;
     text-transform: uppercase;
-    width: 15rem;
+    width: 100%;
 
     &:hover,
     &:focus {
         background-color: var(--color-dark);
         color: var(--color-main);
         text-decoration: none;
+    }
+
+    @media screen and (min-width: $size-xs) {
+        height: $height;
+        width: 13rem;
+    }
+
+    @media screen and (min-width: $size-sm) {
+        font-size: 2rem;
+        width: 15rem;
     }
 }
 
@@ -84,13 +98,18 @@ $height-border: 1rem;
 }
 
 .NavList {
+    background-color: var(--color-darker);
     display: flex;
     flex: 1;
-    float: right;
+    justify-content: center;
     list-style: none;
-    margin-left: auto;
     margin: 0;
     padding: 0;
+
+    @media screen and (min-width: $size-xs) {
+        background-color: transparent;
+        float: right;
+    }
 }
 
 .NavListItem {
