@@ -1,5 +1,6 @@
 @import '../../styles/Config.scss';
 
+$height-sm: 3rem;
 $height: 5rem;
 $height-border: 1rem;
 
@@ -36,7 +37,7 @@ $height-border: 1rem;
     font-family: var(--font-headline);
     font-size: 1.25rem;
     font-weight: 700;
-    height: 3rem;
+    height: $height-sm;
     justify-content: center;
     margin: 0;
     text-transform: uppercase;
@@ -114,6 +115,7 @@ $height-border: 1rem;
 
 .NavListItem {
     position: relative;
+    overflow: auto;
 
     a {
         align-items: center;
@@ -121,11 +123,11 @@ $height-border: 1rem;
         display: flex;
         flex: 1;
         font-family: var(--font-headline);
-        font-size: 1.125rem;
+        font-size: 0.7rem;
         font-weight: 500;
-        height: $height;
+        height: $height-sm;
         justify-content: center;
-        padding: 0 $height-border;
+        padding: 0 0.25rem;
         text-decoration: none;
         text-transform: uppercase;
 
@@ -133,6 +135,17 @@ $height-border: 1rem;
         &:focus {
             background-color: var(--color-dark);
             text-decoration: none;
+        }
+
+        @media screen and (min-width: $size-xxs) {
+            font-size: 0.75rem;
+            padding: 0 0.5rem;
+        }
+
+        @media screen and (min-width: $size-xs) {
+            font-size: 1.125rem;
+            height: $height;
+            padding: 0 $height-border;
         }
     }
 }

@@ -17,7 +17,7 @@ export const Header = () => (
                 <ul className={Styles.NavList}>
                     <li className={Styles.NavListItem}>
                         <Link
-                            to="/projects"
+                            to="/projects/"
                             activeClassName={Styles.NavLinkActive}
                         >
                             Projects
@@ -25,7 +25,7 @@ export const Header = () => (
                     </li>
                     <li className={Styles.NavListItem}>
                         <Link
-                            to="/resume"
+                            to="/resume/"
                             activeClassName={Styles.NavLinkActive}
                         >
                             Resume
@@ -33,7 +33,7 @@ export const Header = () => (
                     </li>
                     <li className={Styles.NavListItem}>
                         <Link
-                            to="/posts"
+                            to="/posts/"
                             activeClassName={Styles.NavLinkActive}
                         >
                             Posts
@@ -41,7 +41,7 @@ export const Header = () => (
                     </li>
                     <li className={Styles.NavListItem}>
                         <Link
-                            to="/videos"
+                            to="/videos/"
                             activeClassName={Styles.NavLinkActive}
                         >
                             Videos
