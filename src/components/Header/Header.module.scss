@@ -7,9 +7,10 @@ $height-border: 1rem;
 .Header {
     align-items: center;
     background-color: var(--color-darker);
+    border: 0 solid var(--color-main);
+    border-bottom-width: $height-border;
     display: flex;
     flex-direction: row;
-    padding-bottom: $height-border;
     position: relative;
 }
 
@@ -84,18 +85,6 @@ $height-border: 1rem;
 
 .Nav {
     width: 100%;
-
-    &::after {
-        background-color: var(--color-main);
-        bottom: 0;
-        content: '';
-        display: block;
-        height: $height-border;
-        left: 0;
-        position: absolute;
-        width: 100%;
-        z-index: 1;
-    }
 }
 
 .NavList {
@@ -115,7 +104,6 @@ $height-border: 1rem;
 
 .NavListItem {
     position: relative;
-    overflow: auto;
 
     a {
         align-items: center;
