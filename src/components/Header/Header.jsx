@@ -39,14 +39,14 @@ export const Header = () => (
                             Posts
                         </Link>
                     </li>
-                    <li className={Styles.NavListItem}>
+                    {/* <li className={Styles.NavListItem}>
                         <Link
                             to="/videos/"
                             activeClassName={Styles.NavLinkActive}
                         >
                             Videos
                         </Link>
-                    </li>
+                    </li> */}
                     <li className={Styles.NavListItem}>
                         <a href="https://gallery.brainbrian.com">Gallery</a>
                     </li>
