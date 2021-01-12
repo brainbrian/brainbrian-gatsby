@@ -31,4 +31,4 @@ https://www.flickr.com/photos/brianbehrens/24091119075/in/album-7215766302948588
 
 [More Photos](https://www.flickr.com/photos/brianbehrens/albums/72157663029485885/with/23723312979/)
 
-[Featured on thepeakpoftheweek.com](https://thepeakoftheweek.com/2015/12/yodelin-stevens-pass/)
+[Featured on thepeakpoftheweek.com](http://thepeakoftheweek.com/2015/12/yodelin-stevens-pass/)

@@ -25,4 +25,4 @@ https://vimeo.com/124916567
 
 <iframe src="https://www.strava.com/activities/279360620/embed/d7755a700073a105705e80e712b820ab80f2e4da" width="100%" height="405" frameborder="0" scrolling="no"></iframe>
 
-[Featured on thepeakoftheweek.com](https://thepeakoftheweek.com/2015/04/naches-peak-chinook-pass/)
+[Featured on thepeakoftheweek.com](http://thepeakoftheweek.com/2015/04/naches-peak-chinook-pass/)

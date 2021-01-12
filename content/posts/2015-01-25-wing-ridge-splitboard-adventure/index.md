@@ -159,4 +159,4 @@ https://www.flickr.com/photos/130915602@N05/16352810356/
 
 Happy Peaking!
 
-[Featured on thepeakoftheweek.com](https://thepeakoftheweek.com/2015/01/wing-ridge-wallowa-mountains/)
+[Featured on thepeakoftheweek.com](http://thepeakoftheweek.com/2015/01/wing-ridge-wallowa-mountains/)

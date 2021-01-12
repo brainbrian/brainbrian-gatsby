@@ -33,4 +33,4 @@ Happy trails!
 
 <iframe src="https://www.strava.com/activities/510552836/embed/07909e5e08732864d1cd406d99cec700bc76d5fd" width="100%" height="405" frameborder="0" scrolling="no"></iframe>
 
-[Featured on thepeakpoftheweek.com](https://thepeakoftheweek.com/2016/03/bullion-peak-crystal-mountain-backcountry/)
+[Featured on thepeakpoftheweek.com](http://thepeakoftheweek.com/2016/03/bullion-peak-crystal-mountain-backcountry/)
