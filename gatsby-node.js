@@ -1,3 +1,4 @@
+const path = require('path');
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
@@ -21,9 +22,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
     const { createPage } = actions;
-
-    const postTemplate = require.resolve(`./src/templates/postTemplate.js`);
-
+    const postTemplate = require.resolve(`./src/templates/post.js`);
     const result = await graphql(`
         {
             allMarkdownRemark(
@@ -41,13 +40,11 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             }
         }
     `);
-
     // Handle errors
     if (result.errors) {
         reporter.panicOnBuild(`Error while running GraphQL query.`);
         return;
     }
-
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
         createPage({
             path: node.fields.slug,
@@ -55,6 +52,23 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             context: {
                 // additional data can be passed via context
                 slug: node.fields.slug,
+            },
+        });
+    });
+
+    // Create blog-list pages
+    const posts = result.data.allMarkdownRemark.edges;
+    const postsPerPage = 20;
+    const numPages = Math.ceil(posts.length / postsPerPage);
+    Array.from({ length: numPages }).forEach((_, i) => {
+        createPage({
+            path: i === 0 ? `/posts` : `/posts/${i + 1}`,
+            component: path.resolve('./src/templates/posts.js'),
+            context: {
+                limit: postsPerPage,
+                skip: i * postsPerPage,
+                numPages,
+                currentPage: i + 1,
             },
         });
     });

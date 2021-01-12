@@ -1,0 +1,27 @@
+@import '../../styles/Config.scss';
+
+.Pagination {
+    display: flex;
+    justify-content: center;
+    margin: 2rem 0;
+}
+
+.PaginationLink {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 0 0.2rem;
+    padding: 0.5rem;
+
+    &:hover,
+    &:focus {
+        background-color: var(--color-main);
+        color: var(--color-light);
+        text-decoration: none;
+    }
+}
+
+.PaginationLinkActive {
+    background-color: var(--color-main);
+    color: var(--color-light);
+    text-decoration: none;
+}
