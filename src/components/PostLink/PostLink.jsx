@@ -8,7 +8,7 @@ export const PostLink = ({ post }) => (
         <Link to={post.fields.slug} className={Styles.PostLink}>
             {post.frontmatter.title}
         </Link>
-        <p>{post.frontmatter.date}</p>
-        <p>{post.excerpt}</p>
+        <p className={Styles.PostLinkDate}>{post.frontmatter.date}</p>
+        <p className={Styles.PostLinkDescription}>{post.excerpt}</p>
     </div>
 );
