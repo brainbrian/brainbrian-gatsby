@@ -43,7 +43,9 @@ export const Footer = () => {
                 </section>
             </aside>
             <footer className={Styles.Footer}>
-                © 2020 Brain Brian (Brian Behrens)
+                &copy; {new Date().getFullYear()} Brain Brian (Brian Behrens) –{' '}
+                Powered by coffee, froth, salt water and curiosity –{' '}
+                <a href="https://www.brainbrian.com">brainbrian.com</a>
             </footer>
         </div>
     );
