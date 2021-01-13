@@ -1,0 +1,76 @@
+@import '../../styles/Config.scss';
+
+.VideoList {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    @media screen and (min-width: $size-xs) {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+}
+
+.VideoListItem {
+    margin-bottom: 2rem;
+
+    a {
+        display: block;
+
+        &:hover,
+        &:focus {
+            h2 {
+                background-color: var(--color-main);
+                color: var(--color-light);
+            }
+        }
+    }
+
+    h2 {
+        background-color: var(--color-darker);
+        font-size: 1.25rem;
+        font-weight: 500;
+        margin: 0;
+        padding: 1rem;
+        text-transform: uppercase;
+
+        @media screen and (min-width: $size-md) {
+            font-size: 1.5rem;
+        }
+    }
+
+    @media screen and (min-width: $size-xs) {
+        width: 50%;
+
+        &:nth-child(odd) {
+            a {
+                padding-right: 1rem;
+            }
+        }
+
+        &:nth-child(even) {
+            a {
+                padding-left: 1rem;
+            }
+        }
+    }
+}
+
+.VideoListImage {
+    width: 100%;
+    padding-bottom: 56.25%;
+    position: relative;
+    overflow: hidden;
+
+    img {
+        width: 100%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+}
+
+.VideoListLink {
+    text-align: center;
+}

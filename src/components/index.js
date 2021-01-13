@@ -7,3 +7,4 @@ export * from './PostLink/PostLink';
 export * from './ProfileHeader/ProfileHeader';
 export * from './Project/Project';
 export * from './ProjectsRecent/ProjectsRecent';
+export * from './VideoList/VideoList';
