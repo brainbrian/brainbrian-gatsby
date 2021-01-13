@@ -19,34 +19,82 @@ body {
     margin: 0;
     min-width: 17.5rem;
     padding: 0;
+
+    @media screen and (min-width: $size-md) {
+        padding-top: 6rem;
+    }
 }
 
 h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h2 {
     color: var(--color-main);
     font-family: var(--font-headline);
 }
 
-h1 {
+h3,
+h4,
+h5,
+h6 {
+    color: var(--color-light);
+    font-family: var(--font-headline);
+}
+
+h1,
+h2,
+h3 {
     font-weight: 700;
 }
 
-h2,
-h3,
 h4,
 h5,
 h6 {
     font-weight: 500;
 }
 
+h1 {
+    font-size: 2rem;
+
+    @media screen and (min-width: $size-md) {
+        font-size: 2.25rem;
+    }
+}
+
+h2 {
+    font-size: 1.5rem;
+
+    @media screen and (min-width: $size-md) {
+        font-size: 1.75rem;
+    }
+}
+
+h3 {
+    font-size: 1.17rem;
+
+    @media screen and (min-width: $size-md) {
+        font-size: 1.25rem;
+    }
+}
+
+h4,
+h5,
+h6 {
+    font-size: 1rem;
+
+    @media screen and (min-width: $size-md) {
+        font-size: 1.125rem;
+    }
+}
+
 p {
     color: var(--color-light);
-    line-height: 1.4;
+    font-size: 1.125rem;
+    line-height: 1.6;
     margin: 0 0 1rem;
+
+    @media screen and (min-width: $size-md) {
+        font-size: 1.25rem;
+        line-height: 1.8;
+    }
 }
 
 a {
@@ -63,7 +111,8 @@ a {
     background-color: var(--color-darker);
     color: var(--color-light);
     display: block;
-    font-weight: 500;
+    font-family: var(--font-headline);
+    font-weight: 700;
     margin-bottom: 1rem;
     padding: 1rem;
     text-transform: uppercase;
@@ -74,6 +123,10 @@ a {
         color: var(--color-light);
         font-size: 1.25rem;
         margin: 0;
+
+        @media screen and (min-width: $size-md) {
+            font-size: 1.5rem;
+        }
     }
 
     &:hover,

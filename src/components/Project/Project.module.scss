@@ -1,3 +1,5 @@
+@import '../../styles/Config.scss';
+
 .Project {
     margin-bottom: 2rem;
 }
@@ -14,6 +16,10 @@
         margin: 0;
         padding: 1rem;
         text-transform: uppercase;
+
+        @media screen and (min-width: $size-md) {
+            font-size: 1.5rem;
+        }
     }
 
     img {
@@ -31,7 +37,6 @@
 
 .Content {
     padding: 1rem;
-    font-size: 1.25rem;
 
     p {
         margin: 0;

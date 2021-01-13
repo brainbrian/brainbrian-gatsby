@@ -9,6 +9,6 @@ export const PostLink = ({ post }) => (
             {post.frontmatter.title}
         </Link>
         <p className={Styles.PostLinkDate}>{post.frontmatter.date}</p>
-        <p className={Styles.PostLinkDescription}>{post.excerpt}</p>
+        <p>{post.excerpt}</p>
     </div>
 );

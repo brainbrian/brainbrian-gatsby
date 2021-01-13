@@ -39,7 +39,7 @@
     background-size: 2rem 2rem;
     margin-bottom: 1rem;
     min-height: 2rem;
-    padding: 0.4rem 0 0 3rem;
+    padding: 0 0 0 3rem;
 }
 
 .ListItemTweet {
@@ -48,7 +48,7 @@
     background-size: 2rem 2rem;
     margin-bottom: 1rem;
     min-height: 2rem;
-    padding: 0.4rem 0 0 3rem;
+    padding: 0 0 0 3rem;
 
     p {
         margin: 0;
@@ -56,5 +56,9 @@
 
     a {
         font-size: 0.75rem;
+
+        @media screen and (min-width: $size-md) {
+            font-size: 0.875rem;
+        }
     }
 }

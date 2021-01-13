@@ -13,12 +13,14 @@ export const Footer = () => {
             <aside className={`content ${Styles.Aside}`}>
                 <section>
                     <a href="/posts" className="header-bar">
-                        <h3 className="header-bar__text">From The Brain</h3>
+                        <h2 className="header-bar__text">From The Brain</h2>
                     </a>
                     <ul className={Styles.List}>
                         {posts.map(({ id, slug, title }) => (
                             <li key={id} className={Styles.ListItemBrain}>
-                                <a href={slug}>{title}</a>
+                                <p>
+                                    <a href={slug}>{title}</a>
+                                </p>
                             </li>
                         ))}
                     </ul>
@@ -28,7 +30,7 @@ export const Footer = () => {
                         href="https://twitter.com/brianbehrens"
                         className="header-bar"
                     >
-                        <h3 className="header-bar__text">Tweets</h3>
+                        <h2 className="header-bar__text">Tweets</h2>
                     </a>
                     <ul className={Styles.List}>
                         {tweets.map(({ date, text, url }, index) => (
