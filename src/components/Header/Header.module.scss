@@ -123,7 +123,7 @@ $height-border: 1rem;
         font-weight: 500;
         height: $height-sm;
         justify-content: center;
-        padding: 0 0.25rem;
+        padding: 0 0.5rem;
         text-decoration: none;
         text-transform: uppercase;
 
@@ -135,7 +135,7 @@ $height-border: 1rem;
 
         @media screen and (min-width: $size-xxs) {
             font-size: 0.75rem;
-            padding: 0 0.5rem;
+            padding: 0 0.75rem;
         }
 
         @media screen and (min-width: $size-xs) {

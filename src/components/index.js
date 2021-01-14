@@ -1,6 +1,7 @@
 export * from './Footer/Footer';
 export * from './Head';
 export * from './Header/Header';
+export * from './Loader/Loader';
 export * from './Pagination/Pagination';
 export * from './Panel/Panel';
 export * from './PostLink/PostLink';

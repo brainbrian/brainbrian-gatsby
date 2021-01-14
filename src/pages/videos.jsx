@@ -6,8 +6,8 @@ import { Footer, Head, Header, VideoList } from '../components';
 const VideosPage = () => {
     const [videos, setVideos] = React.useState([]);
 
-    if (typeof window !== `undefined`) {
-        window.onGoogleLoad = () => {
+    const requestVideos = () => {
+        if (typeof gapi !== `undefined`) {
             gapi.client.setApiKey('AIzaSyAjRARdBxX16wTA5VGu2bgySbu5WYltopQ');
             gapi.client.load('youtube', 'v3', () => {
                 gapi.client
@@ -29,8 +29,16 @@ const VideosPage = () => {
                         ),
                     );
             });
-        };
-    }
+        } else {
+            setVideos([]);
+        }
+    };
+
+    React.useEffect(() => {
+        if (typeof window !== `undefined`) {
+            window.onGoogleLoad = () => requestVideos();
+        }
+    }, []);
 
     return (
         <>

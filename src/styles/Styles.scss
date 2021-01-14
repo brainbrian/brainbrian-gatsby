@@ -17,7 +17,7 @@ body {
     color: var(--color-light);
     font-family: var(--font-body);
     margin: 0;
-    min-width: 17.5rem;
+    min-width: 20rem;
     padding: 0;
 
     @media screen and (min-width: $size-md) {
@@ -141,8 +141,8 @@ a {
 
 .content {
     margin: 2rem auto;
-    padding: 0 2rem;
     max-width: var(--max-width);
+    padding: 0 2rem;
 }
 
 .bg-page {
@@ -150,13 +150,13 @@ a {
 }
 
 .sr-only {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    white-space: nowrap;
-    clip-path: inset(50%);
     border: 0;
+    clip: rect(0, 0, 0, 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
 }
