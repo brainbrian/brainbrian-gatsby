@@ -8,7 +8,7 @@ const VideosPage = () => {
 
     const requestVideos = () => {
         if (typeof gapi !== `undefined`) {
-            gapi.client.setApiKey('AIzaSyAjRARdBxX16wTA5VGu2bgySbu5WYltopQ');
+            gapi.client.setApiKey('AIzaSyDRW7BKqIyUYwsVhndOgNzCBG5WeD0yhrs');
             gapi.client.load('youtube', 'v3', () => {
                 gapi.client
                     .request({
