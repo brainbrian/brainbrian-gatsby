@@ -8,7 +8,7 @@ const VideosPage = () => {
 
     const requestVideos = () => {
         if (typeof gapi !== `undefined`) {
-            gapi.client.setApiKey(process.env.GOOGLE_API_KEY);
+            gapi.client.setApiKey(process.env.GATSBY_GOOGLE_API_KEY);
             gapi.client.load('youtube', 'v3', () => {
                 gapi.client
                     .request({
