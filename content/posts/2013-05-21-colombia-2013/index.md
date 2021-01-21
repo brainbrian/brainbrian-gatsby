@@ -11,6 +11,6 @@ Photos from the trip can be viewed on [my Flickr account](https://www.flickr.com
 
 Here is a collection of footage I compiled from the trip.
 
-https://vimeo.com/67216445
+`video: https://www.youtube.com/watch?v=dHdbcturhsU`
 
 Music: Bomba Estéreo - “Bailar Conmigo” Kid Cudi - “King Wizard” Major Lazer - “Playground” Filmed with a Nikon Coolpix P300, iPhone 4s and a GoPro Hero 3 Edited with Adobe Premiere Pro

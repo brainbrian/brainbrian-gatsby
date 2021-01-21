@@ -4,12 +4,12 @@ date: '2013-03-21'
 categories:
     - 'music'
     - 'personal'
-    - 'video-2'
+    - 'video'
 ---
 
 The first Penumbra Beer Bash was amazing. Everything went smooth. The beer flowed like a river of deliciousness and the bands were entertaining to say the least. I produced a video from the event. I hope you enjoy.
 
-https://vimeo.com/62246812
+`video: https://www.youtube.com/watch?v=9D1Wr27HFVU`
 
 Music: "Haunt Me" by Prism Tats
 

@@ -8,7 +8,7 @@ categories:
 
 The month of December was great in the Pacific Northwest. I had a lot of fun filled adventures to start off the season. Here is a small collection of clips from a few of the days in December I rode.
 
-https://vimeo.com/56886131
+`video: https://www.youtube.com/watch?v=S2dEo3uDchQ`
 
 Music: The Babies - "Alligator"
 

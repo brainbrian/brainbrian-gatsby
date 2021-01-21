@@ -5,7 +5,7 @@ categories:
     - 'personal'
     - 'snowboarding'
     - 'travel'
-    - 'video-2'
+    - 'video'
 tags:
     - 'alpental'
     - 'backcountry'

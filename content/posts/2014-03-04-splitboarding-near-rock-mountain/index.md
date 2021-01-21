@@ -4,10 +4,10 @@ date: '2014-03-04'
 categories:
     - 'snowboarding'
     - 'travel'
-    - 'video-2'
+    - 'video'
 ---
 
-https://vimeo.com/88165396
+`video: https://www.youtube.com/watch?v=u6RzUBepJDQ`
 
 Last Friday, February 28th, 2014 we set out on a splitboard tour up Rock Mountain off US2 in Washington. This was a first attempt for the #magicblack #peakoftheweek crew. The tour began with some mellow switchbacks, as most tours often do. After about 3 switchbacks we began a steep accent up a ridge near the middle basin of Rock Mountain. We observed a several wet slides that had happened within the last day or so. We kept as close to tree lines as we could, trying to avoid the wide open, steep faces. I'm not quite sure what came over me, but I blazed the steepest skin track I've been on to date.
 

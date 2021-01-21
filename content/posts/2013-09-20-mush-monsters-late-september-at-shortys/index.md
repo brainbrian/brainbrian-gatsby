@@ -5,10 +5,10 @@ categories:
     - 'personal'
     - 'surfing'
     - 'travel'
-    - 'video-2'
+    - 'video'
 ---
 
-https://vimeo.com/75683300
+`video: https://www.youtube.com/watch?v=PB9Rjr6vuyU`
 
 We spent another September weekend in Arch Cape surfing and Short Sands and Seaside. The waves were big on the outside but near impossible to get to. We made the best of the mush on the inside. Beware of bats.
 

@@ -4,7 +4,7 @@ date: '2018-02-20'
 categories:
     - 'surfing'
     - 'travel'
-    - 'video-2'
+    - 'video'
 ---
 
 I headed to Westport, WA the weekend of February 10th, 2018 for some what shapped up to be an amazing weekend of surfing.

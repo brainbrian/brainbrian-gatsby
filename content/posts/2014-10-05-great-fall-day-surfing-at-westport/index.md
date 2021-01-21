@@ -9,6 +9,6 @@ tags:
     - 'westport'
 ---
 
-https://vimeo.com/108068904
+`video: https://www.youtube.com/watch?v=wtUtVssV-Ac`
 
 What a great day on Friday. This was from our first session. The second and third were even better!

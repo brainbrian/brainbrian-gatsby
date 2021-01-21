@@ -5,7 +5,7 @@ categories:
     - 'personal'
     - 'surfing'
     - 'travel'
-    - 'video-2'
+    - 'video'
 tags:
     - 'dji'
     - 'drone'

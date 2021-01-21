@@ -3,10 +3,10 @@ title: 'To Wild Waves and Beyond!'
 date: '2013-10-31'
 categories:
     - 'personal'
-    - 'video-2'
+    - 'video'
 ---
 
-https://vimeo.com/78175750
+`video:https://www.youtube.com/watch?v=Sri2IEd-TUo`
 
 30 years into my life and an unforgettable 3 of them spent with Amanda, I still love the feeling of being a kid. Amanda has brought me great happiness and what better way to celebrate each other and the end of summer than a trip to Wild Waves! I love this girl with all my heart. Amanda, let’s grow young together.
 

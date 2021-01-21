@@ -4,7 +4,7 @@ date: '2017-08-17'
 categories:
     - 'surfing'
     - 'travel'
-    - 'video-2'
+    - 'video'
 ---
 
 I bought a new [DJI Mavic Pro](https://www.dji.com/mavic) a week back and headed to the coast to see what kind of shots I could come up with. I always love surfing on the reservation run by the Makah tribe. They are welcoming of surfers. Last weekend I actually participated in [Warm Currents](https://www.warmcurrent.org), teaching local kids on the reservation to surf.

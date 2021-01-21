@@ -21,7 +21,7 @@ Coverage all around is low, but we had next to no base damage on our gear, even 
 
 On the drive home we encountered some rain shortly after passing Crystal Mountain Resort.
 
-https://vimeo.com/124916567
+`video: https://www.youtube.com/watch?v=E4wB5MPsTws`
 
 <iframe src="https://www.strava.com/activities/279360620/embed/d7755a700073a105705e80e712b820ab80f2e4da" width="100%" height="405" frameborder="0" scrolling="no"></iframe>
 

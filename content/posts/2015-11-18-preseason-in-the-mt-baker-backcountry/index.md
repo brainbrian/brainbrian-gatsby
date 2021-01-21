@@ -15,4 +15,4 @@ After a lap near chair 1 we headed out near Artist Point. Here the sun was start
 
 https://vimeo.com/146156889/
 
-[Featured on thepeakoftheweek.com](http://thepeakoftheweek.com/2015/11/2015-mt-baker-backcountry-opener/)
+![Featured on thepeakoftheweek.com](http://thepeakoftheweek.com/2015/11/2015-mt-baker-backcountry-opener/)
