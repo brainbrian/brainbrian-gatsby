@@ -1,3 +1,7 @@
+require('dotenv').config({
+    path: '.env',
+});
+
 module.exports = {
     siteMetadata: {
         title: 'brainbrian',
@@ -57,12 +61,9 @@ module.exports = {
             resolve: `gatsby-source-twitter`,
             options: {
                 credentials: {
-                    // TODO: Move to env vars https://www.gatsbyjs.com/docs/how-to/local-development/environment-variables/
-                    consumer_key: 'WhCNPFzoeR28ESB4mG5aQ',
-                    consumer_secret:
-                        'EZmbAkf0MNuLw0lEfAtI6HaLQHbrB98veoHYLzEa3ok',
-                    bearer_token:
-                        'AAAAAAAAAAAAAAAAAAAAAES4SgAAAAAAbLyt3sx9TN9nG5MDO2NdaOBp90Y%3DBNC5qIdISBmT194YH6bISkiEbVQjJ3No3Cvo33DwfEwUyZ7UF5',
+                    consumer_key: process.env.TWITTER_CONSUMER_KEY,
+                    consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
+                    bearer_token: process.env.TWITTER_BEARER_TOKEN,
                 },
                 queries: {
                     brian: {
