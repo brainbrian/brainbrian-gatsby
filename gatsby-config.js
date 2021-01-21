@@ -77,5 +77,29 @@ module.exports = {
                 },
             },
         },
+        {
+            resolve: 'gatsby-transformer-remark',
+            options: {
+                plugins: [
+                    {
+                        resolve: 'gatsby-remark-embed-video',
+                        options: {
+                            width: 960,
+                            ratio: 1.77,
+                            related: false,
+                            noIframeBorder: true,
+                            urlOverrides: [
+                                {
+                                    id: 'youtube',
+                                    embedURL: (videoId) =>
+                                        `https://www.youtube-nocookie.com/embed/${videoId}`,
+                                },
+                            ],
+                            containerClass: 'post-video-container',
+                        },
+                    },
+                ],
+            },
+        },
     ],
 };

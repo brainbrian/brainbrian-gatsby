@@ -23,6 +23,7 @@
         "gatsby-plugin-react-helmet": "^3.7.0",
         "gatsby-plugin-sass": "^2.8.0",
         "gatsby-plugin-sitemap": "^2.9.0",
+        "gatsby-remark-embed-video": "^3.0.10",
         "gatsby-source-filesystem": "^2.8.1",
         "gatsby-source-twitter": "^3.2.2",
         "gatsby-transformer-remark": "^2.13.1",

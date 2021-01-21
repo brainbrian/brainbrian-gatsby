@@ -16,26 +16,26 @@ There's a new show on YouTube called American Hipster Presents. I stumbled upon 
 
 If you're from Seattle I'm sure a lot of you know of Linda's in Capitol Hill. Take a peek into Seattle's night life with Linda Derschang, owner of Linda's and others.
 
-https://www.youtube.com/watch?v=0CVWeactgcY
+`video: https://www.youtube.com/watch?v=0CVWeactgcY`
 
 ### KeseyPollock & Melting Bodies - American Hipster Presents #32 (Seattle - Art)
 
 I absolutely love this art and can't wait for their show in spring of 2013.
 
-https://www.youtube.com/watch?v=XabL80v9dUw
+`video: https://www.youtube.com/watch?v=XabL80v9dUw`
 
 ### Marian Built - American Hipster Presents #34 (Seattle - Style)
 
 Reused furniture builder… similar to [Electric Coffin](https://www.facebook.com/electriccoffin).
 
-https://www.youtube.com/watch?v=sV-L7iVBv84
+`video: https://www.youtube.com/watch?v=sV-L7iVBv84`
 
 ### Bumbershoot - American Hipster Presents #33 (Seattle - Music)
 
-https://www.youtube.com/watch?v=UtNlWh8VNVs
+`video: https://www.youtube.com/watch?v=UtNlWh8VNVs`
 
 ### Rachel's Ginger Beer - American Hipster Presents #31 (Seattle - Food)
 
 Their ginger beer is great and if you live in Capitol Hill I'm sure some of you know of Montana. Great people.
 
-https://www.youtube.com/watch?v=pHK7bE2SKX0
+`video: https://www.youtube.com/watch?v=pHK7bE2SKX0`

@@ -9,7 +9,7 @@ categories:
 
 I've been working on learning to nose-ride on my longboard. This was a perfect, glassy morning for doing just that.
 
-https://www.youtube.com/watch?v=ZUGxmmz6mAU
+`video: https://www.youtube.com/watch?v=ZUGxmmz6mAU`
 
 Filmed and edited by Brian Behrens in May, 2018.
 

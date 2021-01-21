@@ -23,7 +23,7 @@ https://www.flickr.com/photos/brianbehrens/25464136612/
 
 We headed our way back up and took a lap down Union Creek. Once again, on the tour up we saw just about every type of weather the day had to offer. Overcast, high winds, snowfall and bright sunshine. The turns down Union Creek were great until again, rain crust at about 6,000 feet. The new rain seems to have stabilized recent storm snow, but doesn't make for the turns we all love.
 
-https://www.youtube.com/watch?v=\_ZtrVdeSgRY
+`video: https://www.youtube.com/watch?v=\_ZtrVdeSgRY`
 
 All in all it was a great day for some exercise and fun in the mountains with friends.
 

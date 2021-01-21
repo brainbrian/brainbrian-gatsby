@@ -19,7 +19,7 @@ tags:
     - 'washington'
 ---
 
-https://www.youtube.com/watch?v=7HHHjXwJxwk
+`video: https://www.youtube.com/watch?v=7HHHjXwJxwk`
 
 March 21st, 2014 the #peakoftheweek crew decided it was great conditions to tackle The Slot Couloir on Snoqualmie Mountain. We woke up early trying to beat as much sun as we could on the skin up. The conditions could not have been better. There seemed to have been a group that toured either earlier that morning or the day prior that got tracks before us, but throughout the whole day we saw no one. It was perfect and exactly what us office warriors needed. After a day of great pow turns in the sun, we headed for the best corn dogs on this earth. They were even better after a great day of touring. Hope you enjoy.
 

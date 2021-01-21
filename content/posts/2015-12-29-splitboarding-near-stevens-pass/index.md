@@ -23,7 +23,7 @@ https://www.flickr.com/photos/brianbehrens/24008510761/in/album-7215766302948588
 
 Happy trails and enjoy the deep snow we've been blessed with this season out west!
 
-https://www.youtube.com/watch?v=z9OKJiGpqw8
+`video: https://www.youtube.com/watch?v=z9OKJiGpqw8`
 
 <iframe src="https://www.strava.com/activities/458984137/embed/2b5be6981a88b1841ab6272f20820b292117d6f1" width="100%" height="405" frameborder="0" scrolling="no"></iframe>
 

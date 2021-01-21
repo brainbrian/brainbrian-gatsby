@@ -11,15 +11,15 @@ It has been a great winter of cool temps here in the Pacific Northwest. It all g
 
 I rode Mt. Baker the first Sunday it opened. We had great snow, but it came with low visibility.
 
-https://www.youtube.com/watch?v=ufY6jgjiYbY
+`video: https://www.youtube.com/watch?v=ufY6jgjiYbY`
 
 We rode Stevens Pass the day they opened the backside up for the first time of the season. My camera was dead before 1pm when it opened. Maybe some things are better left undocumented, left to our memories.
 
-https://www.youtube.com/watch?v=6NGyUy1lZG8
+`video: https://www.youtube.com/watch?v=6NGyUy1lZG8`
 
 Alpental opening day, like the others, did not disappoint. We ended up getting first tracks down International. Again, undocumented.
 
-https://www.youtube.com/watch?v=L1wHCmG2laM
+`video: https://www.youtube.com/watch?v=L1wHCmG2laM`
 
 And then there's touring. Here are some photos and video from our tour out Commonwealth Basin across from Snoqualmie West.
 
@@ -35,7 +35,7 @@ https://www.flickr.com/photos/brianbehrens/31229306534/
 
 https://www.flickr.com/photos/brianbehrens/31952744241/
 
-https://www.youtube.com/watch?v=SzzHOnm7fKY
+`video: https://www.youtube.com/watch?v=SzzHOnm7fKY`
 
 <iframe src="https://www.strava.com/activities/819311402/embed/e7e52ad1aad1eca0575e1700815fb81218ad7fe7" width="100%" height="405" frameborder="0" scrolling="no"></iframe>
 

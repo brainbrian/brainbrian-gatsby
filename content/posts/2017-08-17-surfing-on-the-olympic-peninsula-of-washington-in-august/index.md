@@ -13,8 +13,8 @@ https://www.instagram.com/p/BXbzHwcgyET/
 
 Saturday the waves were tiny. We got the David's [Prism Kite](https://prismkites.com) out in the morning for some flying while we waited for the waves to pick up. This was my first flying the Mavic. I was pleasantly surprised by how smooth it flew. It's stability, even in wind, is mind boggling.
 
-https://www.youtube.com/watch?v=hRKwjeZwGWU
+`video: https://www.youtube.com/watch?v=hRKwjeZwGWU`
 
 Saturday night we were greeted by a bit of rain. We got food in town to pass the time. By morning the rain had stopped and we were rewarded with good surf. Only those who stuck around reaped the rewards.
 
-https://www.youtube.com/watch?v=\_e8lU6F3l4k
+`video: https://www.youtube.com/watch?v=\_e8lU6F3l4k`
