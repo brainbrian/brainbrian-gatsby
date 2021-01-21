@@ -16,7 +16,7 @@ And, best of all, they'll be playing the [Tractor Tavern in Ballard on October 2
 
 <iframe frameborder="0" name="saddle-creek" height="170" width="450" src="https://api.saddle-creek.com/efa/004/embed.php" marginheight="0" marginwidth="0" scrolling="no"></iframe>
 
-[![Azure Ray - Drawing Down The Moon Album Cover](/images/posts/2010/08/AZure-Ray-Drawing-Down-The-Moon-Album-Art1.jpg 'Azure-Ray-Drawing-Down-The-Moon-Album-Art')](/images/posts/2010/08/AZure-Ray-Drawing-Down-The-Moon-Album-Art1.jpeg)
+![Azure Ray - Drawing Down The Moon Album Cover](./azure-ray.jpg)
 
 Tracklist:
 

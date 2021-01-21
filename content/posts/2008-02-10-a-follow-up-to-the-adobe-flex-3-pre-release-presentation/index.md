@@ -16,4 +16,4 @@ I give a big thank you to [C2](https://www.c2gps.com/) for helping with the ev
 
 The flex presentation went quite well. Its nice to walk away with a free tshirt and cookies in hand!
 
-![Flex Pre-Release](/images/posts/2008/02/flex.jpg)
+![Flex Pre-Release](./flex.jpg)

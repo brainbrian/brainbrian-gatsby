@@ -13,6 +13,6 @@ Either way, CocoRosie was great. Big surprise, right? This is my third time seei
 
 At the show I bought "La Maison De Mon Rêve" on vinyl (CocoRosie's first album). I was very excited to get this beautiful, pink record home. I love the water colors used on the album cover.
 
-[![La Maison de Mon Reve - CocoRosie](/images/posts/2010/06/La_Maison_de_Mon_Reve-CocoRosie.jpeg)](/images/posts/2010/06/La_Maison_de_Mon_Reve-CocoRosie.jpeg)
+![La Maison de Mon Reve - CocoRosie](./cocorosie.jpg)
 
 I'm extremely happy I went and got a new record player this past weekend. It's been great to dig out my record collection again after 2 years of being in boxes. This is the first time they've seen daylight since I moved to Seattle in 2008.

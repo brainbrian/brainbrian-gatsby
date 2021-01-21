@@ -12,7 +12,6 @@ module.exports = {
         'gatsby-plugin-react-css-modules',
         'gatsby-plugin-react-helmet',
         'gatsby-plugin-sitemap',
-        'gatsby-transformer-remark',
         {
             resolve: 'gatsby-source-filesystem',
             options: {
@@ -78,10 +77,18 @@ module.exports = {
                 },
             },
         },
+        `gatsby-plugin-sharp`,
         {
             resolve: 'gatsby-transformer-remark',
             options: {
                 plugins: [
+                    {
+                        resolve: `gatsby-remark-images`,
+                        options: {
+                            maxWidth: 960,
+                            linkImagesToOriginal: false,
+                        },
+                    },
                     {
                         resolve: 'gatsby-remark-embed-video',
                         options: {
