@@ -27,18 +27,23 @@ const ResumePage = () => (
                     architecture. My passion for technology is ever-evolving and
                     I enjoy new challenges. Behind it all, I’m a problem solver
                     who likes telling stories. In my free time you’ll find me
-                    surfing, snowboarding, skateboarding, taking photos or
-                    appreciating live music.
+                    surfing, taking photos, exploring code and/or spending time
+                    with my wife and dogs.
                 </p>
             </ProfileHeader>
             <h2 className="header-bar">Experience</h2>
             <h3>Principal Engineer (IV), VideoAmp</h3>
             <p>
                 Santa Monica, CA | 2018 – Present
-                <br />I work on the DesignOps team. We focus on developing and
-                building out our design system used on internal products. We are
-                in the process of open-sourcing our design system. We work with
-                TypeScript, React and Node on all of our projects.
+                <br />
+                Starting at VideoAmp on the DesignOps, we focused on building
+                our design system. This was built using TypeScript, React, Jest,
+                Cypress, Percy, Codecov, D3 and more. I have since transitioned
+                to a principal role, working as a full-stack engineer. I now
+                deliver features and shared code in both our front and backend
+                services using Node.js, TypeScript, React, hapi, Postgres,
+                Snowflake and various AWS services like SQS and SNS. I help lead
+                guild meetings and mentor other engineers.
             </p>
             <h3>Software Engineer – Front End, REI</h3>
             <p>
