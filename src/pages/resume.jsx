@@ -36,14 +36,14 @@ const ResumePage = () => (
             <p>
                 Santa Monica, CA | 2018 – Present
                 <br />
-                Starting at VideoAmp on the DesignOps, we focused on building
-                our design system. This was built using TypeScript, React, Jest,
-                Cypress, Percy, Codecov, D3 and more. I have since transitioned
-                to a principal role, working as a full-stack engineer. I now
-                deliver features and shared code in both our front and backend
-                services using Node.js, TypeScript, React, hapi, Postgres,
-                Snowflake and various AWS services like SQS and SNS. I help lead
-                guild meetings and mentor other engineers.
+                Starting at VideoAmp on the DesignOps team, we focused on
+                building our design system. This was built using TypeScript,
+                React, Jest, Cypress, Percy, Codecov, D3 and more. I have since
+                transitioned to a principal role, working as a full-stack
+                engineer delivering features and shared code in both our front
+                and backend services using Node.js, TypeScript, React, hapi,
+                Postgres, Snowflake and various AWS services like SQS and SNS. I
+                help lead guild meetings and mentor other engineers.
             </p>
             <h3>Software Engineer – Front End, REI</h3>
             <p>
