@@ -21,7 +21,11 @@ const Posts = ({
             <Header />
             <main className="content">
                 {posts}
-                <Pagination currentPage={currentPage} numPages={numPages} />
+                <Pagination
+                    basePath="/posts/"
+                    currentPage={currentPage}
+                    numPages={numPages}
+                />
             </main>
             <Footer />
         </>

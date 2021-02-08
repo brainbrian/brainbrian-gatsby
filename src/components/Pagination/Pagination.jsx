@@ -4,12 +4,14 @@ import { Link } from 'gatsby';
 
 import Styles from './Pagination.module.scss';
 
-export const Pagination = ({ currentPage, numPages }) => {
+export const Pagination = ({ basePath, currentPage, numPages }) => {
     const isFirst = currentPage === 1;
     const isLast = currentPage === numPages;
     const prevPage =
-        currentPage - 1 === 1 ? '/' : `/posts/${(currentPage - 1).toString()}/`;
-    const nextPage = `/posts/${(currentPage + 1).toString()}/`;
+        currentPage - 1 === 1
+            ? '/'
+            : `${basePath}${(currentPage - 1).toString()}/`;
+    const nextPage = `${basePath}${(currentPage + 1).toString()}/`;
 
     return (
         <nav className={Styles.Pagination}>
@@ -26,7 +28,7 @@ export const Pagination = ({ currentPage, numPages }) => {
             {Array.from({ length: numPages }, (_, i) => (
                 <Link
                     key={`pagination-number${i + 1}`}
-                    to={`/posts/${i === 0 ? '' : i + 1 + '/'}`}
+                    to={`${basePath}${i === 0 ? '' : i + 1 + '/'}`}
                     className={Styles.PaginationLink}
                     activeClassName={Styles.PaginationLinkActive}
                 >
