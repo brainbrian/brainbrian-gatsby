@@ -16,7 +16,7 @@ module.exports = {
             resolve: 'gatsby-source-filesystem',
             options: {
                 name: 'pages',
-                path: './src/pages/',
+                path: `${__dirname}/src/pages/`,
             },
         },
         {
@@ -83,15 +83,6 @@ module.exports = {
             options: {
                 plugins: [
                     {
-                        resolve: `gatsby-remark-images`,
-                        options: {
-                            backgroundColor: `transparent`,
-                            linkImagesToOriginal: false,
-                            maxWidth: 960,
-                            withWebp: true,
-                        },
-                    },
-                    {
                         resolve: 'gatsby-remark-embed-video',
                         options: {
                             width: 960,
@@ -106,6 +97,15 @@ module.exports = {
                                 },
                             ],
                             containerClass: 'post-video-container',
+                        },
+                    },
+                    {
+                        resolve: `gatsby-remark-images`,
+                        options: {
+                            backgroundColor: `transparent`,
+                            linkImagesToOriginal: false,
+                            maxWidth: 960,
+                            withWebp: true,
                         },
                     },
                 ],

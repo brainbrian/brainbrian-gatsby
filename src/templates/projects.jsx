@@ -12,20 +12,17 @@ const Projects = ({
 }) => {
     const projects = edges
         .filter((edge) => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
-        .map((edge) => {
-            console.log(edge);
-            return (
-                <Project
-                    excerpt={edge.node.excerpt}
-                    id={edge.node.id}
-                    imageUrl={edge.node.frontmatter.image.publicURL}
-                    key={edge.node.id}
-                    slug={edge.node.fields.slug}
-                    title={edge.node.frontmatter.title}
-                    url={edge.node.frontmatter.url}
-                />
-            );
-        });
+        .map((edge) => (
+            <Project
+                excerpt={edge.node.excerpt}
+                id={edge.node.id}
+                imageUrl={edge.node.frontmatter.image.publicURL}
+                key={edge.node.id}
+                slug={edge.node.fields.slug}
+                title={edge.node.frontmatter.title}
+                url={edge.node.frontmatter.url}
+            />
+        ));
     const { currentPage, numPages } = pageContext;
 
     return (
