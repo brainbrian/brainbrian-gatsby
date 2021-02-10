@@ -12,6 +12,7 @@ export const useProjects = () => {
                     edges {
                         node {
                             id
+                            excerpt(pruneLength: 400)
                             html
                             fields {
                                 collection
@@ -33,9 +34,10 @@ export const useProjects = () => {
     );
     return allMarkdownRemark.edges.length > 0
         ? allMarkdownRemark.edges.map((edge) => ({
-              id: edge.node.id,
               date: edge.node.frontmatter.date,
+              excerpt: edge.node.excerpt,
               html: edge.node.html,
+              id: edge.node.id,
               imageUrl: edge.node.frontmatter.image.publicURL,
               slug: edge.node.fields.slug,
               title: edge.node.frontmatter.title,
