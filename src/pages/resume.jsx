@@ -21,13 +21,13 @@ const ResumePage = () => (
                     I’m Brian Behrens, a developer living in Los Angeles, CA. I
                     have been building interactive projects professionally since
                     2003. The bulk of my career has been centered around
-                    websites, social campaigns and web–based applications. I
+                    websites, social campaigns, and web-based applications. I
                     have focused heavily on interaction design, web standards,
-                    usability, animation, video, e-commerce and application
+                    usability, animation, video, e-commerce, and application
                     architecture. My passion for technology is ever-evolving and
                     I enjoy new challenges. Behind it all, I’m a problem solver
-                    who likes telling stories. In my free time you’ll find me
-                    surfing, taking photos, exploring code and/or spending time
+                    who likes telling stories. In my free time, you’ll find me
+                    surfing, taking photos, exploring code, and/or spending time
                     with my wife and dogs.
                 </p>
             </ProfileHeader>
