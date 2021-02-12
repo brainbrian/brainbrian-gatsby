@@ -7,6 +7,10 @@ categories:
 
 I spent this past weekend with a crew of 55 volunteers making a short film, 7 minutes in duration, for the [Seattle 48 Hour Film Festival](https://www.48hourfilm.com/seattle-wa). This film was created under the direction of the talented Ben Strickland of [Tricky Whiskey Films](https://www.facebook.com/TrickyWhiskeyFilmsSeattle/). It was my first time doing the 48 Hour Film Fest. It was a great experience seeing what a large group of volunteers, industry pros and amateurs, can come together and make in 2 LONG days.
 
+https://www.48hourfilm.com/en/seattle-wa/films/20656
+
+`video: https://vimeo.com/175171853`
+
 https://www.flickr.com/photos/brianbehrens/28125884390/in/album-72157668358213254/
 
 We shot at a private airfield in Monroe, WA.

@@ -15,3 +15,7 @@ Music: The Babies - "Alligator"
 Filmed at Stevens Pass Resort: [stevenspass.com](https://www.stevenspass.com/)
 
 Filmed with my Drift and iPhone cameras: [driftinnovation.com](https://www.driftinnovation.com/)
+
+![Brian Pow Slash](./brian-behrens-snowboarding-slash.webp)
+
+![Brian at the top of a pillow line](./brian-behrens-snowboarding-pillows.webp)
