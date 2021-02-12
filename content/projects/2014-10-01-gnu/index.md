@@ -20,3 +20,6 @@ tags:
 ---
 
 The Mervin Mfg. web team rebuilt the GNU Snowboards website for the 2014-2015 season. The goal was not only to update the website to GNU’s latest visuals, but also to introduce a new responsive, easy-to-use website. We introduced new features like product filtering and social mash-ups to quickly provide users access to content they are looking for. We improved bounce rates, time on the site and transactions on all devices.
+
+![Brian Behrens at Mt. Baker](./2013-11-21-baker-behrens.webp)
+Photo by [Tim Zimmerman](https://www.timzimmerman.com) – Mt. Baker - November 21st, 2013
