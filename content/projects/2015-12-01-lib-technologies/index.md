@@ -1,7 +1,7 @@
 ---
 title: 'Lib Technologies'
 date: '2015-12-01'
-image: './image.jpg'
+image: './lib-tech.webp'
 url: 'https://www.lib-tech.com'
 tags:
     [
@@ -63,4 +63,4 @@ The Lib Tech brand and e-commerce website is an ever-evolving project I have lea
 
 [Shopatron Case Study with Mervin Manufacturing](/documents/shopatron-mervin-manufacturing-case-study.pdf)
 
-![Lib Tech Website](./lib-tech-website.jpg)
+![Lib Tech Website](./lib-tech-website.webp)
