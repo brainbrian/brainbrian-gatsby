@@ -7,10 +7,36 @@
 }
 
 .ProfileImage {
-    overflow: hidden;
     border-radius: 0.3rem;
     margin-bottom: 1rem;
+    overflow: hidden;
+    position: relative;
     width: 100%;
+
+    img {
+        width: 100%;
+        display: block;
+    }
+
+    &::after {
+        background-image: url('/images/brian-behrens-profile-old.webp');
+        background-size: cover;
+        content: '';
+        height: 100%;
+        left: 0;
+        opacity: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+        transition: opacity 500ms ease-in-out;
+    }
+
+    &:hover,
+    &:focus {
+        &::after {
+            opacity: 1;
+        }
+    }
 }
 
 .Aside {
