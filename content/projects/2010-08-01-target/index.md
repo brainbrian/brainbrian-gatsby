@@ -1,7 +1,7 @@
 ---
 title: 'Target'
 date: '2010-08-01'
-image: './image.jpg'
+image: './target.webp'
 url: 'https://www.target.com'
 tags: ['actionscript', 'javascript', 'motion design', 'technical lead', 'xml']
 ---
