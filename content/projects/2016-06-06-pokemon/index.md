@@ -1,7 +1,7 @@
 ---
 title: 'Pokémon'
 date: '2016-06-06'
-image: './image.jpg'
+image: './pokemon.webp'
 url: 'https://www.pokemongo.com/en-us/'
 tags:
     [
