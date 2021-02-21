@@ -24,3 +24,5 @@ tags:
 ---
 
 [VideoAmp](https://videoamp.com)
+
+![VideoAmp Measurement Application](./videoamp-measurement.webp)
