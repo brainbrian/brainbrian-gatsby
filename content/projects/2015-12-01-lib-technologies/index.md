@@ -49,9 +49,16 @@ The 2014/2015 winter season was the 20 year anniversary celebration of professio
 
 https://www.lib-tech.com/diy
 
-During the 2013-2014 snowboard season the Mervin Mfg. web team was tasked with building an online do-it-yourself snowboard builder. We are fortunate at Lib Tech to build our snowboards in the USA at our own factory in Sequim, WA. This allows us to do experimental programs like the diy builder and scale them based on their success. The web application utilizes responsive web-design and Shopatron’s Add-To-Cart API to allow users to design and order their own custom one-of-a-kind snowboard delivered right to their doorstep from any device. Users can build their own snowboard while heading up a lift for some pow turns!
+During the 2013-2014 snowboard season the Mervin Mfg. web team was tasked with building an online do-it-yourself snowboard builder. We are fortunate at Lib Tech to build our snowboards in the USA at our own factory in Sequim, WA. This allows us to do experimental programs like the diy builder and scale them based on their success.
 
 ![Lib Technologies DIY Snowboard Builder](./lib-tech-diy-snowboard-builder.webp)
+
+![Lib Technologies DIY Snowboard Builder Flier designed by David Kiker](./lib-tech-diy-snowboard-builder-flier.webp)
+Designed by David Kiker
+
+The web application utilizes responsive web-design and Shopatron’s Add-To-Cart API to allow users to design and order their own custom one-of-a-kind snowboard delivered right to their doorstep from any device. Users can build their own snowboard while heading up a lift for some pow turns!
+
+<iframe width="320" height="530" src="https://www.instagram.com/p/jjxe9KuzaL/embed/" frameborder="0" style="margin: 0 auto; display: block;"></iframe>
 
 ## Responsive E-commerce Website
 
@@ -64,3 +71,11 @@ The Lib Tech brand and e-commerce website is an ever-evolving project I have lea
 [Shopatron Case Study with Mervin Manufacturing](/documents/shopatron-mervin-manufacturing-case-study.pdf)
 
 ![Lib Tech Website](./lib-tech-website.webp)
+
+## Surfboard Launch Website
+
+### 2012-10-01
+
+This was the first project I took on at Mervin Manufacturing. Per Pete and Mike's request, they wanted users to be able to purchase one of three shapes online and be able to decide on a volume and graphic combination. This was one page of a much larger WordPress site. The site explained a lot about the completely new surf construction introduced to the industry. This site evolved in the coming months and years and was merged into the main Lib Technologies website.
+
+![Lib Tech Surfboard Builder](./lib-tech-surfboard-builder.webp)
