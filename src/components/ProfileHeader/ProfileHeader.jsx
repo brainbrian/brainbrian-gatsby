@@ -6,11 +6,12 @@ export const ProfileHeader = ({ children }) => (
     <section className={Styles.ProfileHeader}>
         <div className={Styles.Biography}>{children}</div>
         <aside className={Styles.Aside}>
-            <img
-                src="/images/brian-behrens-profile.jpg"
-                alt="Portrait of Brian Behrens and his dachshund Tilly"
-                className={Styles.ProfileImage}
-            />
+            <div className={Styles.ProfileImage} tabIndex={0}>
+                <img
+                    src="/images/brian-behrens-profile.jpg"
+                    alt="Portrait of Brian Behrens and his dachshund Tilly"
+                />
+            </div>
             <p>
                 <a
                     className="github-button"
