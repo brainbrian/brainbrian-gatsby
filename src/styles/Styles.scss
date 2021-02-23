@@ -166,15 +166,40 @@ a {
     width: 100%;
     padding-bottom: 56.25%;
 
-    @media screen and (min-width: $size-md) {
-        width: 60%;
-        padding-bottom: 33.75%;
-        margin: 0 auto;
-    }
-
     iframe {
         width: 100%;
         height: 100%;
         position: absolute;
+    }
+
+    @media screen and (min-width: $size-md) {
+        width: 120%;
+        padding-bottom: 67.5%;
+        margin: 0 auto 0 -10%;
+    }
+}
+
+.gatsby-resp-image-wrapper {
+    @media screen and (min-width: $size-md) {
+        margin-left: -15% !important;
+        max-width: 130% !important;
+        width: 130% !important;
+    }
+}
+
+.post-container {
+    max-width: 56rem;
+    margin: auto;
+
+    video {
+        margin-left: -4.9% !important;
+        max-width: 109.8% !important;
+        width: 109.8% !important;
+
+        @media screen and (min-width: $size-md) {
+            margin-left: -10% !important;
+            max-width: 120% !important;
+            width: 120% !important;
+        }
     }
 }

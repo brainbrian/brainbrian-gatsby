@@ -14,12 +14,12 @@ export default function Template({
             <Head />
             <Header />
             <main className="content">
-                <div className="blog-post-container">
-                    <div className="blog-post">
+                <div className="post-container">
+                    <div className="post">
                         <h1>{frontmatter.title}</h1>
                         <h3>{frontmatter.date}</h3>
                         <div
-                            className="blog-post-content"
+                            className="post-content"
                             dangerouslySetInnerHTML={{ __html: html }}
                         />
                     </div>
