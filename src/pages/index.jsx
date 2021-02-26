@@ -29,7 +29,7 @@ const IndexPage = () => (
                         </a>
                         ,{' '}
                         <a href="https://www.twitter.com/brianbehrens">
-                            twitterer
+                            tweeter
                         </a>
                         ,{' '}
                         <a href="https://www.strava.com/athletes/brianbehrens">
