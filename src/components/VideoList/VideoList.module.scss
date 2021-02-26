@@ -18,25 +18,29 @@
     a {
         display: block;
 
+        h2 {
+            background-color: var(--color-darker);
+            font-size: 1.25rem;
+            font-weight: 500;
+            margin: 0;
+            padding: 1rem;
+            text-transform: uppercase;
+            transition: background-color 200ms ease-in-out,
+                color 300ms ease-in-out;
+
+            @media screen and (min-width: $size-md) {
+                font-size: 1.5rem;
+            }
+        }
+
         &:hover,
         &:focus {
+            text-decoration: none;
+
             h2 {
                 background-color: var(--color-main);
                 color: var(--color-light);
             }
-        }
-    }
-
-    h2 {
-        background-color: var(--color-darker);
-        font-size: 1.25rem;
-        font-weight: 500;
-        margin: 0;
-        padding: 1rem;
-        text-transform: uppercase;
-
-        @media screen and (min-width: $size-md) {
-            font-size: 1.5rem;
         }
     }
 

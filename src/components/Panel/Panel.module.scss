@@ -44,6 +44,8 @@
             color: var(--color-light);
             padding: 0.15rem 0.3rem;
             text-decoration: none;
+            transition: background-color 200ms ease-in-out,
+                color 300ms ease-in-out;
             line-height: 1.8;
 
             &:hover,
