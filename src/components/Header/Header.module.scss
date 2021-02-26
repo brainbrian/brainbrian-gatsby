@@ -164,12 +164,14 @@ $height-border: 1rem;
 @keyframes nav-animation {
     from {
         opacity: 0;
-        transform: translateY(-100%);
+        transform: translateX(100%);
+        width: 0%;
     }
 
     to {
         opacity: 1;
-        transform: translateY(0%);
+        transform: translateX(0%);
+        width: 100%;
     }
 }
 
@@ -177,7 +179,7 @@ $height-border: 1rem;
     background-color: var(--color-dark);
 
     &::after {
-        animation-duration: 300ms;
+        animation-duration: 500ms;
         animation-name: nav-animation;
         animation-timing-function: ease-in-out;
         opacity: 1;
