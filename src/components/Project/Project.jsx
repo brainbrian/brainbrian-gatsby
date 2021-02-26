@@ -8,7 +8,7 @@ export const Project = ({ id, excerpt, imageUrl, slug, title }) => (
             <h2>{title}</h2>
             {imageUrl && <img src={imageUrl} alt={`${title} Sample`} />}
         </a>
-        <div
+        <p
             className={Styles.Content}
             dangerouslySetInnerHTML={{ __html: excerpt }}
         />
