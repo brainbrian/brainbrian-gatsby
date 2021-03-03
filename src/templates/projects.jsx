@@ -27,7 +27,10 @@ const Projects = ({
 
     return (
         <>
-            <Head />
+            <Head
+                title="Projects | Brian Behrens | Los Angeles Software Engineer"
+                description="A listing of completed projects by Brian Behrens."
+            />
             <Header />
             <main className="content">
                 {projects}

@@ -5,7 +5,7 @@ import { Footer, Head, Header, ProfileHeader } from '../components';
 const ResumePage = () => (
     <>
         <Head
-            title="Brian Behrens | Resume | Los Angeles Software Engineer"
+            title="Resume | Brian Behrens | Los Angeles Software Engineer"
             description="This is the personal resume of Brian Behrens."
         >
             <script

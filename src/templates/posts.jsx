@@ -17,7 +17,10 @@ const Posts = ({
 
     return (
         <>
-            <Head />
+            <Head
+                title="Posts | Brian Behrens | Los Angeles Software Engineer"
+                description="Posts (blogs) from Brian Behrens of my adventures and journey in coding."
+            />
             <Header />
             <main className="content">
                 {posts}

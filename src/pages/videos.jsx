@@ -42,7 +42,10 @@ const VideosPage = () => {
 
     return (
         <>
-            <Head>
+            <Head
+                title="Posts | Brian Behrens"
+                description="A collection of 20 of the latest videos created by Brian Behrens."
+            >
                 <script
                     type="text/javascript"
                     src="https://apis.google.com/js/client.js?onload=onGoogleLoad"

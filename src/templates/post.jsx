@@ -11,7 +11,7 @@ export default function Template({
     const { frontmatter, html } = markdownRemark;
     return (
         <>
-            <Head />
+            <Head title={`${frontmatter.title} | Posts | Brian Behrens`} />
             <Header />
             <main className="content">
                 <div className="post-container">
