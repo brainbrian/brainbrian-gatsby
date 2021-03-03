@@ -20,7 +20,7 @@ Over the years working at both [POP](https://www.wearepop.com) and [Blast Radius
 
 ## Outlook Add-in
 
-### July, 2017
+#### July, 2017
 
 The [Starbucks Outlook Add-In](https://www.onmsft.com/news/microsoft-releases-starbucks-outlook-add-5-egift-card-sharing-via-outlook) for Microsoft Outlook was an application that allowed users to send Starbucks Gift Cards through their Outlook email with ease. Users right within Outlook could select from a collection of branded eGift Cards that could be sent securly over email.
 
@@ -40,7 +40,7 @@ Video from [Starbucks Facebook](https://www.facebook.com/outlook/videos/10783011
 
 ## Frappuccino Brand Website
 
-### November, 2011
+#### November, 2011
 
 I helped concept, plan and build all things digital surrounding the [Frappuccino](https://www.frappuccino.com) brand in 2011.
 
@@ -58,7 +58,7 @@ I'm currently working on the 2012 version of the Frappuccino digital brand.
 
 ## Pumpkin Spice Latte Facebook Campaign
 
-### September, 2011
+#### September, 2011
 
 The Starbucks team at Blast Radius was tasked with [creating a campaign](https://www.mashable.com/2011/08/18/starbucks-pumpkin-spice-latte-facebook/) to reward a city with the most excitement around the fall launch of pumpkin spice latte.
 
