@@ -33,9 +33,8 @@ const ResumePage = () => (
             </ProfileHeader>
             <h2 className="header-bar">Experience</h2>
             <h3>Principal Engineer (IV), VideoAmp</h3>
+            <h4>Santa Monica, CA | 2018 – Present</h4>
             <p>
-                Santa Monica, CA | 2018 – Present
-                <br />
                 Starting at VideoAmp on the DesignOps team, we focused on
                 building our design system. This was built using TypeScript,
                 React, Jest, Cypress, Percy, Codecov, D3 and more. I have since
@@ -46,9 +45,8 @@ const ResumePage = () => (
                 help lead guild meetings and mentor other engineers.
             </p>
             <h3>Software Engineer – Front End, REI</h3>
+            <h4>Kent, WA | 2017 – 2018</h4>
             <p>
-                Kent, WA | 2017 – 2018
-                <br />
                 Lead front end software engineer for the Classes/Events and
                 Adventures team. Work in a continuous integrated environment
                 with Docker, Java, Jenkins and more. Spend most of my time
@@ -59,9 +57,8 @@ const ResumePage = () => (
                 and Chai.
             </p>
             <h3>Senior Interactive Developer, POP</h3>
+            <h4>Seattle, WA | 2015 – 2017</h4>
             <p>
-                Seattle, WA | 2015&nbsp;– 2017
-                <br />
                 Second time working at POP. Previously wrote a large amount of
                 ActionScript 3, building applications and animations for various
                 clients. This time I focused heavily on JavaScript. Used Node.js
@@ -74,9 +71,8 @@ const ResumePage = () => (
                 and AWS environments.
             </p>
             <h3>Senior Web Developer, Mervin Manufacturing</h3>
+            <h4>Seattle, WA | 2012 – 2015</h4>
             <p>
-                Seattle, WA | 2012 –&nbsp;2015
-                <br />
                 Led a team in development efforts and made key decisions in
                 e-commerce infrastructure, hosting architecture and build
                 systems. Developed new applications for users to find and
@@ -89,9 +85,8 @@ const ResumePage = () => (
                 online-business decisions.
             </p>
             <h3>Senior Interface Developer, Blast Radius</h3>
+            <h4>Seattle, WA | 2011 – 2012</h4>
             <p>
-                Seattle, WA | 2011 – 2012
-                <br />
                 Managed a team of developers executing marketing initiatives for
                 Starbucks. Brainstormed and planned technical execution on
                 Frappuccino, Pumpkin Spice Latte and Starbucks Holiday. Planned
@@ -101,70 +96,62 @@ const ResumePage = () => (
                 ActionScript 3 and PureMVC.
             </p>
             <h3>Senior Interactive Developer, POP</h3>
+            <h4>Seattle, WA | 2008 – 2011</h4>
             <p>
-                Seattle, WA | 2008 – 2011
-                <br />
                 Built Flash based experiences for corporate clients such as
                 Target, Nintendo, Amazon, Xbox and more. Led development
                 planning efforts and execution.
             </p>
             <h3>Multimedia Developer, Marx Creative</h3>
+            <h4>Milwaukee, WI | 2006 – 2008</h4>
             <p>
-                Milwaukee, WI | 2006 – 2008
-                <br />
-                Web development (HTML, CSS, Javascript, Ajax, Flash, XML, PHP
+                = Web development (HTML, CSS, Javascript, Ajax, Flash, XML, PHP
                 and MySQL), DVD production, In-store Media Creation
             </p>
             <h3>Freelance Web Development</h3>
+            <h4>2006 – Present</h4>
             <p>
-                2006 – Present
-                <br />
                 Web-design and Programming (HTML, CSS, Javascript, Flash, XML,
                 PHP and MySQL), Custom CMS Application Development
             </p>
             <h3>Multimedia Developer, WIN Media Inc.</h3>
+            <h4>Burlington, WI | 2003 – 2006</h4>
             <p>
-                Burlington, WI | 2003 – 2006
-                <br />
                 Project Management, CD-ROM Development, Web Development (HTML,
                 CSS, Javascript, Flash, PHP and MySQL), DVD Production, Live
                 Event Video Production, Commercial Productions
             </p>
             <h3>Production Assistant, Milwaukee Public Television</h3>
+            <h4>Milwaukee, WI | 2002 – 2003</h4>
             <p>
-                Milwaukee, WI | 2002 – 2003
-                <br />
                 Floor Director, Camera, Make-up, TelePrompTer, Switcher,
                 Lighting, Audio
             </p>
             <h3>
                 Co-Producer, Milwaukee Bucks “Bucks Buddy” Half-time Segment
             </h3>
+            <h4>Milwaukee, WI | 2003</h4>
             <p>
-                Milwaukee, WI | 2003
-                <br />I Produced, Shot, and Edited a 30 second half-time segment
-                for the “Bucks Buddy” program with partner, Brad Manderscheid.
-                The segment aired on the WB during a Bucks half-time show.
+                I Produced, Shot, and Edited a 30 second half-time segment for
+                the “Bucks Buddy” program with partner, Brad Manderscheid. The
+                segment aired on the WB during a Bucks half-time show.
             </p>
             <h3>Executive Producer, MPTV’s “Letters to Santa”</h3>
+            <h4>Milwaukee, WI | 2002</h4>
             <p>
-                Milwaukee, WI | 2002
-                <br />I oversaw all aspects of production in the 7 Part
-                Children’s Series aired on Milwaukee Public Television.
+                I oversaw all aspects of production in the 7 Part Children’s
+                Series aired on Milwaukee Public Television.
             </p>
-
             <h2 className="header-bar">Awards</h2>
             <h3>Target – Best of the Bullseye: Collaboration</h3>
+            <h4>Seattle, WA | 2008</h4>
             <p>
-                Seattle, WA | 2008
-                <br />
                 The team at POP on the Target account was awarded a Best of the
                 Bullseye award by Target Corporate for collaboration.
             </p>
             <h3>Freddie Award</h3>
+            <h4>Milwaukee, WI | 2007</h4>
             <p>
-                Milwaukee, WI | 2007
-                <br />
                 International Health and Medical Media Awards for Best Web Site
                 <br />
                 Working at Marx Creative, I helped produce and maintain
@@ -173,29 +160,20 @@ const ResumePage = () => (
                 2006.
             </p>
             <h3>Best Director Award</h3>
+            <h4>Milwaukee, WI | 2003</h4>
             <p>
-                Milwaukee, WI | 2003
-                <br />
                 Milwaukee Public Television Student Operations
                 <br />I was awarded best director for a half hour long feature
                 titled “Let’s Be Frank”. I was the director, producer,
                 cinematographer, and editor for this feature.
             </p>
-
             <h2 className="header-bar">Education</h2>
             <h3>Milwaukee Area Technical College</h3>
-            <p>
-                Milwaukee, WI | 2001 – 2003
-                <br />
-                Associates Degree in Television &amp; Video Production
-            </p>
+            <h4>Milwaukee, WI | 2001 – 2003</h4>
+            <p>Associates Degree in Television &amp; Video Production</p>
             <h3>Milwaukee Area Technical College</h3>
-            <p>
-                Milwaukee, WI | 2003 – 2005
-                <br />
-                Associates Degree in Visual Communications
-            </p>
-
+            <h4>Milwaukee, WI | 2003 – 2005</h4>
+            <p>Associates Degree in Visual Communications</p>
             <h2 className="header-bar">Skills</h2>
             <p>
                 HTML, CSS, JavaScript, TypeScript, Node.js, React, build
