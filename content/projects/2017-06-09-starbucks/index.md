@@ -30,7 +30,7 @@ Users could decide on a dollar amount to send to any email by attaching the eGif
 
 ![Starbucks Outlook Purchase Gift Card](./starbucks-outlook-2.webp)
 
-I led JavaScript development on this project. We revamped an existing AngularJS code base, updated features and provide support. Users could also suggest a Starbucks to meet at via a store locator built into the Outlook add-in.
+I led JavaScript development on this project. We revamped an existing [AngularJS](https://angularjs.org) and [Ionic framework](https://ionicframework.com/docs) code base, updated features and provide support. Users could also suggest a Starbucks to meet at via a store locator built into the Outlook add-in.
 
 <video autoplay loop muted playsinline width="100%">
   <source src="/videos/starbucks-outlook-addin.mp4" type="video/mp4">

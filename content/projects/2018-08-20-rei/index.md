@@ -24,6 +24,8 @@ Our front-end engineers would come together as a guild to address issues across 
 
 ![REI 2](./rei-2.webp)
 
-We used a continuous integrated environment with Docker, Java, Jenkins and more. I was responsible for upgrading to ES6 linting standards with [Vue.js](https://vuejs.org). We delivered pages and components that could be used throughout the REI website. Dependency management on the frontend is done via our private NPM repository.
+We used a continuous integrated environment with Docker, Java, Jenkins and more. I was responsible for upgrading to ES6 linting standards with [Vue.js](https://vuejs.org). We delivered pages and components that could be used throughout the REI website.
 
 ![REI 3](./rei-3.webp)
+
+While there we began migrating these component to use our [Cedar Design System](https://rei.github.io/rei-cedar-docs/). Dependency management on the frontend is done via npm.
