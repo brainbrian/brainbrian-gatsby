@@ -43,7 +43,7 @@ const VideosPage = () => {
     return (
         <>
             <Head
-                title="Posts | Brian Behrens"
+                title="Videos | Brian Behrens"
                 description="A collection of 20 of the latest videos created by Brian Behrens."
             >
                 <script

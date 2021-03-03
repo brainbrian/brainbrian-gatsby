@@ -26,7 +26,7 @@ export const Head = ({ children, description, title }) => (
             content={
                 description
                     ? description
-                    : 'This is the personal portfolio of Brian Behrens. This site serves as a representaton of his professional and personal work since 2002 as an interactive developer.'
+                    : 'This is the personal portfolio of Brian Behrens. This site serves as a representaton of his professional and personal work since 2002 as an interactive developer and software engineer.'
             }
         />
         <meta

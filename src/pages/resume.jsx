@@ -6,7 +6,7 @@ const ResumePage = () => (
     <>
         <Head
             title="Resume | Brian Behrens | Los Angeles Software Engineer"
-            description="This is the personal resume of Brian Behrens."
+            description="The personal resume of Brian Behrens, web developer and software engineer."
         >
             <script
                 async
