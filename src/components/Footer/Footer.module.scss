@@ -40,6 +40,29 @@
     margin-bottom: 1rem;
     min-height: 2rem;
     padding: 0 0 0 3rem;
+
+    a {
+        color: var(--color-light);
+
+        span {
+            color: var(--color-main);
+            display: block;
+            font-size: 0.75rem;
+
+            @media screen and (min-width: $size-md) {
+                font-size: 0.875rem;
+            }
+        }
+
+        &:hover,
+        &:focus {
+            text-decoration: none;
+
+            span {
+                text-decoration: underline;
+            }
+        }
+    }
 }
 
 .ListItemTweet {

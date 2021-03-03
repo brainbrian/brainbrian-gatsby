@@ -16,10 +16,12 @@ export const Footer = () => {
                         <h2 className="header-bar__text">From The Brain</h2>
                     </a>
                     <ul className={Styles.List}>
-                        {posts.map(({ id, slug, title }) => (
+                        {posts.map(({ date, id, slug, title }) => (
                             <li key={id} className={Styles.ListItemBrain}>
                                 <p>
-                                    <a href={slug}>{title}</a>
+                                    <a href={slug}>
+                                        {title} <span>{date}</span>
+                                    </a>
                                 </p>
                             </li>
                         ))}

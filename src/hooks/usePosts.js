@@ -16,6 +16,7 @@ export const usePosts = () => {
                                 slug
                             }
                             frontmatter {
+                                date(formatString: "MMMM DD, YYYY")
                                 title
                             }
                         }
@@ -25,6 +26,7 @@ export const usePosts = () => {
         `,
     );
     return allMarkdownRemark.edges.map((edge) => ({
+        date: edge.node.frontmatter.date,
         id: edge.node.id,
         slug: edge.node.fields.slug,
         title: edge.node.frontmatter.title,
