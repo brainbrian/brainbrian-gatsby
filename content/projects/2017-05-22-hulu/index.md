@@ -25,7 +25,7 @@ Hulu's [The Handmaid's Tale](https://www.hulu.com/the-handmaids-tale) is now air
 
 ## Chance Chatbot
 
-While at [POP](https://www.wearepop.com) we worked on a Facebook chat bot for Hulu's orginal show [Chance](https://www.hulu.com/series/chance-e9b6cb5f-44f0-4c41-9dbc-4247fec9f3e9). I partnered with a coworker on the engineering. We used an AWS serverless cloud based architecture with Lamdas written with Node.js. We did natural language processing with [wit.ai](https://wit.ai).
+While at [POP](https://www.wearepop.com) we worked on a Facebook chat bot for Hulu's orginal show [Chance](https://www.hulu.com/series/chance-e9b6cb5f-44f0-4c41-9dbc-4247fec9f3e9). I partnered with a coworker on the engineering. We used an AWS serverless cloud based architecture with Lambdas written with Node.js. We did natural language processing with [wit.ai](https://wit.ai).
 
 ![Hulu Chance Chatbot](./hulu-chance-chatbot.webp)
 
