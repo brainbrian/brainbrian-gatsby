@@ -25,10 +25,13 @@ Hulu's [The Handmaid's Tale](https://www.hulu.com/the-handmaids-tale) is now air
 
 ## Chance Chatbot
 
+While at [POP](https://www.wearepop.com) we worked on a Facebook chat bot for Hulu's orginal show [Chance](https://www.hulu.com/series/chance-e9b6cb5f-44f0-4c41-9dbc-4247fec9f3e9). I partnered with a coworker on the engineering. We used an AWS serverless cloud based architecture with Lamdas written with Node.js.
+
 ![Hulu Chance Chatbot](./hulu-chance-chatbot.webp)
 
-http://findyourlimits.com/
+I also worked on the [Find Your Limits](http://findyourlimits.com) site where users would originally complete a series of questions and register for the chat bot. The site would take in basic information about them and blend it with information from the show to test their moral limits.
 
-https://www.campaignlive.com/article/hulu-launches-chatbot-new-chance/1413800
+In the press:
 
-https://decider.com/2016/10/28/hulu-chance-chat-module/
+-   [decider.com](https://decider.com/2016/10/28/hulu-chance-chat-module/)
+-   [campaignlive.com](https://www.campaignlive.com/article/hulu-launches-chatbot-new-chance/1413800)
