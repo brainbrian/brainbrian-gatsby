@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-import Styles from './Project.module.scss';
+import * as Styles from './Project.module.scss';
 
 export const Project = ({ id, excerpt, imageUrl, slug, title }) => (
     <article className={Styles.Project} id={id}>
