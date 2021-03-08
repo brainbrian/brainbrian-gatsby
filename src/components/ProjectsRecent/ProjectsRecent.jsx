@@ -3,7 +3,7 @@ import * as React from 'react';
 import { Project } from '../';
 import { useProjects } from '../../hooks';
 
-import Styles from './ProjectsRecent.module.scss';
+import * as Styles from './ProjectsRecent.module.scss';
 
 export const ProjectsRecent = () => {
     const projects = useProjects();

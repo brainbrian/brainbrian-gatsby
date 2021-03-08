@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-import Styles from './PostLink.module.scss';
+import * as Styles from './PostLink.module.scss';
 
 export const PostLink = ({ post }) => (
     <div>

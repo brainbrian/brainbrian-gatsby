@@ -2,7 +2,7 @@ import * as React from 'react';
 
 import { Loader } from '../';
 
-import Styles from './VideoList.module.scss';
+import * as Styles from './VideoList.module.scss';
 
 export const VideoList = ({ videos }) => {
     if (videos.length < 1) {

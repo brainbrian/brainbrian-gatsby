@@ -2,7 +2,7 @@ import * as React from 'react';
 
 import { Link } from 'gatsby';
 
-import Styles from './Header.module.scss';
+import * as Styles from './Header.module.scss';
 
 export const Header = () => (
     <header className={Styles.Header}>

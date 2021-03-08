@@ -2,7 +2,7 @@ import * as React from 'react';
 
 import { Link } from 'gatsby';
 
-import Styles from './Pagination.module.scss';
+import * as Styles from './Pagination.module.scss';
 
 export const Pagination = ({ basePath, currentPage, numPages }) => {
     const isFirst = currentPage === 1;
