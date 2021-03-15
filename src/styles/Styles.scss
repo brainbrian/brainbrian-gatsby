@@ -10,6 +10,7 @@
     --font-headline: #{$font-headline};
     --font-body: #{$font-body};
     --max-width: #{$max-width};
+    --max-width-text: #{$max-width-text};
 }
 
 body {
@@ -145,6 +146,11 @@ a {
     padding: 0 2rem;
 }
 
+.limit-text-width {
+    margin: 0 auto;
+    max-width: var(--max-width-text);
+}
+
 .bg-page {
     background-color: var(--color-dark);
 }
@@ -188,8 +194,8 @@ a {
 }
 
 .post-container {
-    max-width: 56rem;
-    margin: auto;
+    margin: 0 auto;
+    max-width: var(--max-width-text);
 
     video {
         margin-left: -4.9% !important;

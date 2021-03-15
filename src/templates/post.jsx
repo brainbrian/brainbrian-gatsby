@@ -15,14 +15,14 @@ export default function Template({
             <Header />
             <main className="content">
                 <div className="post-container">
-                    <div className="post">
+                    <article className="post">
                         <h1>{frontmatter.title}</h1>
                         <h3>{frontmatter.date}</h3>
                         <div
                             className="post-content"
                             dangerouslySetInnerHTML={{ __html: html }}
                         />
-                    </div>
+                    </article>
                 </div>
             </main>
             <Footer />

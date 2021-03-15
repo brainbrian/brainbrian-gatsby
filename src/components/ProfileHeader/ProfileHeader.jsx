@@ -8,8 +8,8 @@ export const ProfileHeader = ({ children }) => (
         <aside className={Styles.Aside}>
             <div className={Styles.ProfileImage} tabIndex={0}>
                 <img
-                    src="/images/brian-behrens-profile.jpg"
-                    alt="Portrait of Brian Behrens and his dachshund Tilly"
+                    src="/images/brian-behrens-profile.webp"
+                    alt="Portrait of Brian Behrens"
                 />
             </div>
             <p>

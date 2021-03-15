@@ -1,6 +1,9 @@
 @import '../../styles/Config.scss';
 
 .ProfileHeader {
+    margin: 0 auto;
+    max-width: var(--max-width-text);
+
     @media screen and (min-width: $size-sm) {
         display: flex;
     }
@@ -48,7 +51,7 @@
     }
 
     @media screen and (min-width: $size-sm) {
-        margin: auto;
+        margin: 0;
         max-width: 14rem;
         width: 30%;
     }
