@@ -209,3 +209,20 @@ a {
         }
     }
 }
+
+.nostyle-list {
+    padding: 0;
+    list-style: none;
+
+    li {
+        margin-bottom: 3rem;
+
+        h3 {
+            margin-bottom: 0.5rem;
+        }
+
+        h4 {
+            margin-top: 0.5rem;
+        }
+    }
+}
