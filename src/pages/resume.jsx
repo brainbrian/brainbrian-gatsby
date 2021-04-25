@@ -42,17 +42,17 @@ const ResumePage = () => (
                     </p>
                 </li>
                 <li>
-                    <h3>Principal Engineer (IV), VideoAmp</h3>
+                    <h3>Principal Software Engineer (IV), VideoAmp</h3>
                     <h4>Santa Monica, CA | 2018 – 2021</h4>
                     <p>
                         Starting at VideoAmp on the DesignOps team, we focused
                         on building our design system. This was built using
                         TypeScript, React, Jest, Cypress, Percy, Codecov, D3 and
-                        more. I have since transitioned to a principal role,
-                        working as a full-stack engineer delivering features and
-                        shared code in both our front and backend services using
+                        more. I then transitioned to a principal role, working
+                        as a full-stack engineer delivering features and shared
+                        code in both our front and backend services using
                         Node.js, TypeScript, React, hapi, Postgres, Snowflake
-                        and various AWS services like SQS and SNS. I help lead
+                        and various AWS services like SQS and SNS. I helped lead
                         guild meetings and mentor other engineers.
                     </p>
                 </li>
