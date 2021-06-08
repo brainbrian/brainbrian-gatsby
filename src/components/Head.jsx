@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { Helmet } from 'react-helmet';
 
-export const Head = ({ children, description, title }) => (
+export const Head = ({ children, description, image, title }) => (
     <Helmet>
         <meta charset="UTF-8" />
         <title>
@@ -32,6 +32,14 @@ export const Head = ({ children, description, title }) => (
         <meta
             name="google-site-verification"
             content="TDkdpgdElFiFg58-ZaeS32jhIdYh2uvnH0DfZMVPKyo"
+        />
+        <meta
+            property="og:image"
+            content={
+                image
+                    ? image
+                    : '/images/share.jpg'
+            }
         />
         {children}
     </Helmet>
