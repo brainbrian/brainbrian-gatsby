@@ -35,11 +35,7 @@ export const Head = ({ children, description, image, title }) => (
         />
         <meta
             property="og:image"
-            content={
-                image
-                    ? image
-                    : '/images/share.jpg'
-            }
+            content={image ? image : '/images/share.jpg'}
         />
         {children}
     </Helmet>

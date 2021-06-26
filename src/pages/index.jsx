@@ -10,16 +10,16 @@ const IndexPage = () => (
         <Header />
         <main>
             <Panel videoUrl="./videos/bg-hero.mp4">
-                <div className="content">
+                <article className="content">
                     <h1>Hello, I'm Brian Behrens.</h1>
-                    <h2>I'm a software engineer.</h2>
+                    <h2>I am a software engineer.</h2>
                     <p>
                         I live,{' '}
                         <a href="https://www.linkedin.com/in/brianbehrens">
                             work
-                        </a>{' '}
-                        and <a href="https://github.com/brainbrian">code</a> in
-                        Los Angeles. I’m a{' '}
+                        </a>
+                        /<a href="https://github.com/brainbrian">code</a> in Los
+                        Angeles. I’m a{' '}
                         <a href="https://www.youtube.com/watch?v=HsHbL8FWqMw">
                             surfer
                         </a>
@@ -45,13 +45,9 @@ const IndexPage = () => (
                         <a href="https://gallery.brainbrian.com">photos</a> and
                         making{' '}
                         <a href="https://www.youtube.com/brianbehrens">films</a>{' '}
-                        every now and again. I find comfort in{' '}
-                        <a href="https://tumblr.brainbrian.com">
-                            random things
-                        </a>
-                        .
+                        every now and again.
                     </p>
-                </div>
+                </article>
             </Panel>
             <ProjectsRecent />
         </main>

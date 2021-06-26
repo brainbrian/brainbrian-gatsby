@@ -12,8 +12,7 @@ const VideosPage = () => {
             gapi.client.load('youtube', 'v3', () => {
                 gapi.client
                     .request({
-                        path:
-                            'https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&maxResults=20&playlistId=UUnphFlefYslPtGlsRuRp5Kw',
+                        path: 'https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&maxResults=20&playlistId=UUnphFlefYslPtGlsRuRp5Kw',
                     })
                     .then((response) =>
                         setVideos(

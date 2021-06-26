@@ -38,7 +38,9 @@ const ResumePage = () => (
                     <h4>Remote (Huntington Beach, CA) | 2021 – Present</h4>
                     <p>
                         I've joined Surfline as the lead on a newly formed Web
-                        Platform team.
+                        Platform squad. Our squad is responsible for building
+                        and maintaining our design system, shared packages,
+                        shared services, frontend architecture and more.
                     </p>
                 </li>
                 <li>
