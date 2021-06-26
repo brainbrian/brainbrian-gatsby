@@ -17,9 +17,9 @@ const IndexPage = () => (
                         I live,{' '}
                         <a href="https://www.linkedin.com/in/brianbehrens">
                             work
-                        </a>
-                        /<a href="https://github.com/brainbrian">code</a> in Los
-                        Angeles. I’m a{' '}
+                        </a>{' '}
+                        and <a href="https://github.com/brainbrian">code</a> in
+                        Los Angeles. I’m a{' '}
                         <a href="https://www.youtube.com/watch?v=HsHbL8FWqMw">
                             surfer
                         </a>
@@ -30,22 +30,23 @@ const IndexPage = () => (
                         ,{' '}
                         <a href="https://www.twitter.com/brianbehrens">
                             tweeter
-                        </a>
-                        ,{' '}
-                        <a href="https://www.strava.com/athletes/brianbehrens">
-                            cyclist
                         </a>{' '}
-                        and a{' '}
+                        and I sometimes ride my{' '}
+                        <a href="https://www.strava.com/athletes/brianbehrens">
+                            bike
+                        </a>
+                        . I consume a lot of{' '}
                         <a href="https://open.spotify.com/user/brianbehrens">
                             music
+                        </a>{' '}
+                        and{' '}
+                        <a href="https://www.imdb.com/user/ur37273093/">film</a>
+                        . I enjoy creating{' '}
+                        <a href="https://gallery.brainbrian.com">photos</a> and{' '}
+                        <a href="https://www.youtube.com/brianbehrens">
+                            videos
                         </a>
-                        /
-                        <a href="https://www.imdb.com/user/ur37273093/">film</a>{' '}
-                        fanatic. I enjoy taking{' '}
-                        <a href="https://gallery.brainbrian.com">photos</a> and
-                        making{' '}
-                        <a href="https://www.youtube.com/brianbehrens">films</a>{' '}
-                        every now and again.
+                        .
                     </p>
                 </article>
             </Panel>

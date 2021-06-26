@@ -6,6 +6,7 @@
     overflow: hidden;
     position: relative;
     min-height: calc(100vh - 14rem);
+    text-shadow: 0.06rem 0.06rem rgba(0, 0, 0, 0.5);
 
     @media screen and (min-width: $size-sm) {
         padding: 4rem;
