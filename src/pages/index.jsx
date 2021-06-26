@@ -30,18 +30,18 @@ const IndexPage = () => (
                         ,{' '}
                         <a href="https://www.twitter.com/brianbehrens">
                             tweeter
-                        </a>{' '}
-                        and I sometimes ride my{' '}
+                        </a>
+                        , and sometimes ride my{' '}
                         <a href="https://www.strava.com/athletes/brianbehrens">
                             bike
                         </a>
-                        . I consume a lot of{' '}
+                        . I enjoy{' '}
                         <a href="https://open.spotify.com/user/brianbehrens">
                             music
-                        </a>{' '}
-                        and{' '}
+                        </a>
+                        ,{' '}
                         <a href="https://www.imdb.com/user/ur37273093/">film</a>
-                        . I enjoy creating{' '}
+                        , and creating my own{' '}
                         <a href="https://gallery.brainbrian.com">photos</a> and{' '}
                         <a href="https://www.youtube.com/brianbehrens">
                             videos
